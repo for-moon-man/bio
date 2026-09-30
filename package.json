@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "lucide": "^0.468.0",
+    "marked": "^16.4.1"
+  }
+}
