@@ -23,6 +23,8 @@ The English stylesheet requests DM Sans, Space Grotesk, and Noto Sans Tamil from
 | `assets/earth.webp` and `assets/earth.jpg`       | NASA / Apollo 17 crew, [source](https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg) | Public domain, as recorded at the source.                                                                                                                                                                                                              |
 | `assets/archive/*.webp`                          | Individual photographers, government agencies, and scientific institutions                                 | Per-image attribution, source, modifications, and license are recorded in `data/archive-photos.json` and displayed on [Sources & image credits](sources.html#image-credits). Terms include public domain and the Government Open Data License – India. |
 
+The replacement `assets/archive/early-portrait.webp` was converted from the PNG supplied for this website on 5 October 2026. Its photographer, photograph date, and public reuse terms were not supplied; the previous image's Wikimedia Commons attribution and public-domain record do not apply to this replacement.
+
 The source records preserve the scope of each license. The proprietary notice does not claim ownership of these third-party images. Preserve their credits and applicable reuse terms when redistributing them under their respective licenses.
 
 ## Embedded media and external evidence

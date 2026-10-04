@@ -13,3 +13,4 @@ Thumbs.db
 *.zip
 /package-workspace.ps1
 /restore-workspace.ps1
+/upload-to-github.ps1

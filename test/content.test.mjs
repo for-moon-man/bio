@@ -284,9 +284,18 @@ test('new archival images have reuse credits in both editions and unlinked sourc
   for (const photo of photos) {
     assert.ok(existsSync(resolve(root, photo.src)));
     assert.ok(photo.caption && photo.captionTa && photo.credit && photo.creditTa);
-    assert.ok(['Public domain', 'GODL-India'].includes(photo.license));
-    assert.ok(photo.source.startsWith('https://commons.wikimedia.org/wiki/File:'));
-    assert.ok(photo.licenseUrl.startsWith('https://'));
+    if (photo.provenance === 'user-supplied') {
+      assert.equal(photo.id, 'early-portrait');
+      assert.ok(existsSync(resolve(root, photo.originalUrl)));
+      assert.equal(photo.source, photo.src);
+      assert.equal(photo.license, 'Reuse terms not recorded');
+      assert.ok(photo.licenseTa);
+      assert.equal(photo.licenseUrl, '');
+    } else {
+      assert.ok(['Public domain', 'GODL-India'].includes(photo.license));
+      assert.ok(photo.source.startsWith('https://commons.wikimedia.org/wiki/File:'));
+      assert.ok(photo.licenseUrl.startsWith('https://'));
+    }
     assert.ok(photo.width > 0 && photo.height > 0);
     for (const file of ['gallery.html', 'tamil.html']) assert.ok(read(file).includes(photo.src));
   }
