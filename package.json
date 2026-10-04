@@ -1,10 +1,24 @@
 {
+  "name": "annadurai-biography",
+  "description": "The English and Tamil biography website of Dr. Mylswamy Annadurai, the Moon Man of India.",
   "private": true,
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
-    "build": "node build.mjs"
+    "build": "node build.mjs && node scripts/package.mjs",
+    "preview": "node scripts/preview.mjs",
+    "test": "node --test test",
+    "test:browser": "node scripts/browser-check.mjs && node --test scripts/honours-cache.test.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "check": "npm run format:check && npm run build && npm test"
   },
   "devDependencies": {
     "lucide": "^0.468.0",
-    "marked": "^16.4.1"
+    "marked": "^16.4.1",
+    "playwright": "1.63.0",
+    "prettier": "3.9.9"
   }
 }

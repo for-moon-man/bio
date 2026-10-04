@@ -1,0 +1,119 @@
+.embed-shell {
+  margin-top: 1rem;
+  min-width: 0;
+}
+.embed-load {
+  width: 100%;
+  min-height: 200px;
+  aspect-ratio: 16 / 9;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem;
+  border: 1px solid #615250;
+  border-radius: 4px;
+  background: radial-gradient(ellipse at top right, #493438, #161817 75%);
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+.embed-play {
+  font-size: 2rem;
+  color: #fff;
+  background: #b32c30;
+  padding: 0.15em 0.6em;
+  border-radius: 0.3em;
+}
+.embed-load:hover {
+  border-color: #c85255;
+}
+.embed-load:focus-visible,
+.embed-stop:focus-visible {
+  outline: 3px solid #ca484d;
+  outline-offset: 4px;
+}
+.embed-shell .video-player iframe {
+  display: block;
+  width: 100%;
+  min-height: 200px;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: 0;
+}
+.embed-stop {
+  margin-top: 0.6rem;
+  padding: 0.5rem 0.9rem;
+  font: inherit;
+  cursor: pointer;
+}
+.embed-notice {
+  font-size: 0.8rem;
+  line-height: 1.7;
+  opacity: 0.85;
+}
+.embed-notice a,
+.evidence-links a,
+.evidence-card a {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+.featured-recording {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  align-items: center;
+}
+.featured-recording > * {
+  min-width: 0;
+}
+.featured-recording h2 {
+  font-size: clamp(1.8rem, 4vw, 3.5rem);
+  overflow-wrap: break-word;
+}
+.mission-register li > .evidence-links {
+  grid-column: 2;
+}
+.evidence-links {
+  font-size: 0.8rem;
+  line-height: 1.8;
+  margin: 0.7rem 0;
+  overflow-wrap: anywhere;
+}
+.evidence-links small {
+  display: block;
+}
+.evidence-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.evidence-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+.evidence-card {
+  border: 1px solid #88796b66;
+  padding: 1.2rem;
+  min-width: 0;
+}
+.evidence-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.7rem;
+}
+.evidence-card p {
+  font-size: 0.85rem;
+  line-height: 1.8;
+}
+[hidden] {
+  display: none !important;
+}
+@media (max-width: 700px) {
+  .featured-recording {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

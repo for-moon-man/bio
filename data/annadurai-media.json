@@ -1,0 +1,373 @@
+{
+  "source": "Biographical collection, 30 September 2026",
+  "categories": [
+    {
+      "id": "photos",
+      "title": "Photos",
+      "description": "The general photographic collection. The numbered album files are retained without assigning people, places or dates.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "videos",
+      "title": "Videos",
+      "description": "Eight selected recordings in this edition, including interviews, public talks and a biographical film.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "leaders",
+      "title": "With Leaders",
+      "description": "The biographical archive names this collection. No individually captioned photograph or category URL is preserved in the supplied snapshot.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "work",
+      "title": "Work Related",
+      "description": "Image records preserved in the source’s ISRO folder. Folder labels describe their archival grouping, not a verified setting for every photograph.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "public",
+      "title": "Public Function",
+      "description": "A source image record from the public-functions collection. No event date or participant identities have been established.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "family",
+      "title": "With Family",
+      "description": "The source’s family collection is preserved without assigning names or relationships to people in the photographs.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "students",
+      "title": "With Students",
+      "description": "Records from the student-interaction collection. Schools, participants and event dates are not identified in the available record.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "abroad",
+      "title": "Abroad",
+      "description": "International visits and events form a named source collection. Individual items and captions were not retained in the supplied snapshot.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "school",
+      "title": "School & College",
+      "description": "School and college photographs from the source archive. Filenames are retained as references, without identifying people from them.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "quotes",
+      "title": "Quotes",
+      "description": "Two visual quote records. Their text has not been reliably transcribed; no quotation is attributed from an unread image.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "books",
+      "title": "Books",
+      "description": "Two book-image records survive in the source manifest. Filenames are recorded below; titles, author credits, language and publication dates await confirmation from the covers.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "media",
+      "title": "In Media",
+      "description": "Reporting and interviews from external publishers add context to Dr. Annadurai’s work. Each item links to its original publication.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "speeches",
+      "title": "Speeches by Dr. Mylswamy",
+      "description": "Public talks and university webinars, linked to their publishers in the selected recordings.",
+      "source": "Biographical collection, 30 September 2026"
+    },
+    {
+      "id": "about",
+      "title": "Videos by others on Dr. Mylswamy",
+      "description": "The existing biographical film remains available in the selected recordings. The original source’s separate third-party-video collection has not been reconstructed.",
+      "source": "Biographical collection, 30 September 2026"
+    }
+  ],
+  "channel": {
+    "url": "https://www.youtube.com/@drmylswamyannadurai6093",
+    "title": "YouTube channel",
+    "source": "Owner-supplied profile link, 3 October 2026",
+    "provenance": "Direct YouTube handle supplied by the owner for the biography site."
+  },
+  "familyAddress": {
+    "title": "ஐயாவின் தந்தையாரின் உரை",
+    "translation": "Speech/address by Ayya’s father",
+    "url": null,
+    "source": "Biographical collection, 30 September 2026",
+    "provenance": "Heading preserved in both local biography snapshots; a recording URL is not available."
+  },
+  "videos": [
+    {
+      "id": "pLSUgxm4eK0",
+      "title": "Mylswamy Annadurai - a brief history",
+      "url": "https://www.youtube.com/watch?v=pLSUgxm4eK0",
+      "source": "https://www.youtube.com/watch?v=pLSUgxm4eK0",
+      "status": "Publisher identity, publication timestamp, duration and player metadata checked on 3 October 2026. Full playback was not reviewed.",
+      "publisher": "DR Mylswamy Annadurai",
+      "publisherUrl": "https://www.youtube.com/@drmylswamyannadurai6093",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpLSUgxm4eK0&format=json",
+      "verifiedOn": "2026-10-03",
+      "kind": "profile",
+      "description": "A biographical film published on Dr. Annadurai’s channel on 3 August 2018.",
+      "edition": "en",
+      "publishedAt": "2018-08-03T04:12:40-07:00",
+      "durationSeconds": 1037,
+      "viewCount": 3719,
+      "viewCountCheckedOn": "2026-10-03",
+      "playerStatus": "OK",
+      "embedAvailable": true,
+      "summaryBasis": "Original publisher title and publication metadata; not a complete transcript review.",
+      "selectionReason": "A recording from the subject or an institutional publisher documenting his work and public conversation."
+    },
+    {
+      "id": "K0hIB18WuM0",
+      "title": "Chat with India’s Moon Man",
+      "url": "https://www.youtube.com/watch?v=K0hIB18WuM0",
+      "source": "https://www.youtube.com/watch?v=K0hIB18WuM0",
+      "status": "Publisher identity, publication timestamp, duration and player metadata checked on 3 October 2026. Full playback was not reviewed.",
+      "publisher": "U.S. Consulate General Chennai",
+      "publisherUrl": "https://www.youtube.com/@AmConGenChennai",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DK0hIB18WuM0&format=json",
+      "verifiedOn": "2026-10-03",
+      "kind": "interview",
+      "description": "A U.S. Consulate General Chennai conversation about Indian and American lunar exploration, broadcast on 12 July 2019.",
+      "edition": "en",
+      "publishedAt": "2019-07-12T01:21:15-07:00",
+      "durationSeconds": 4370,
+      "viewCount": 1263,
+      "viewCountCheckedOn": "2026-10-03",
+      "playerStatus": "OK",
+      "embedAvailable": true,
+      "eventDate": "2019-07-12T04:34:13+00:00",
+      "summaryBasis": "Original publisher title and publication metadata; not a complete transcript review.",
+      "selectionReason": "A recording from the subject or an institutional publisher documenting his work and public conversation."
+    },
+    {
+      "id": "7o2L1_wPYAE",
+      "title": "Mylswamy Annadurai: Moon Man of India on life, Mars, and the universe",
+      "editorialTitle": "Life, Mars and the universe",
+      "kind": "interview",
+      "description": "Forbes India’s Pathbreakers conversation with Neha Bothra explores lunar and Martian exploration, exoplanets and the possibility of life elsewhere.",
+      "selectionReason": "A concise introduction from an established editorial publisher.",
+      "url": "https://www.youtube.com/watch?v=7o2L1_wPYAE",
+      "source": "https://www.youtube.com/watch?v=7o2L1_wPYAE",
+      "publisher": "Forbes India",
+      "publisherUrl": "https://www.youtube.com/@ForbesIndia",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7o2L1_wPYAE&format=json",
+      "verifiedOn": "2026-10-03",
+      "publishedAt": "2022-12-20T21:30:03-08:00",
+      "durationSeconds": 1351,
+      "viewCount": 3331,
+      "viewCountCheckedOn": "2026-10-03",
+      "summaryBasis": "Publisher title and description; not a full transcript or independent fact-check of statements in the video.",
+      "status": "Publisher identity, publication timestamp, duration and player metadata checked on 3 October 2026. Full playback was not reviewed.",
+      "officialArchiveMembership": "Not established; independently discovered addition.",
+      "edition": "en",
+      "playerStatus": "OK",
+      "embedAvailable": true
+    },
+    {
+      "id": "ZIgCUfFAWNo",
+      "title": "Future 2.0: Indian Space Technology and Beyond | Mylswamy Annadurai | TEDxSIBMBengaluru",
+      "editorialTitle": "Future 2.0: Indian Space Technology and Beyond",
+      "kind": "talk",
+      "description": "A TEDxSIBMBengaluru talk on India’s space ambitions and the prospects for travel to the Moon and Mars.",
+      "selectionReason": "A short public talk published by TEDx Talks.",
+      "url": "https://www.youtube.com/watch?v=ZIgCUfFAWNo",
+      "source": "https://www.youtube.com/watch?v=ZIgCUfFAWNo",
+      "publisher": "TEDx Talks",
+      "publisherUrl": "https://www.youtube.com/@TEDx",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZIgCUfFAWNo&format=json",
+      "verifiedOn": "2026-10-03",
+      "publishedAt": "2019-05-09T08:03:29-07:00",
+      "durationSeconds": 1159,
+      "viewCount": 5765,
+      "viewCountCheckedOn": "2026-10-03",
+      "summaryBasis": "Publisher title and description; not a full transcript or independent fact-check of statements in the video.",
+      "status": "Publisher identity, publication timestamp, duration and player metadata checked on 3 October 2026. Full playback was not reviewed.",
+      "officialArchiveMembership": "Not established; independently discovered addition.",
+      "edition": "en",
+      "playerStatus": "OK",
+      "embedAvailable": true
+    },
+    {
+      "id": "C26gyxKRMtY",
+      "title": "Future of Space Technology in India | Mylswamy Annadurai | TEDxMarwadiUniversity",
+      "editorialTitle": "Future of Space Technology in India",
+      "kind": "talk",
+      "description": "At TEDxMarwadiUniversity, Dr. Annadurai discusses collaboration between ISRO and private industry, and the connections between space technology and society.",
+      "selectionReason": "A later TEDx perspective on industry collaboration.",
+      "url": "https://www.youtube.com/watch?v=C26gyxKRMtY",
+      "source": "https://www.youtube.com/watch?v=C26gyxKRMtY",
+      "publisher": "TEDx Talks",
+      "publisherUrl": "https://www.youtube.com/@TEDx",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC26gyxKRMtY&format=json",
+      "verifiedOn": "2026-10-03",
+      "publishedAt": "2024-10-01T09:25:09-07:00",
+      "durationSeconds": 1094,
+      "viewCount": 426,
+      "viewCountCheckedOn": "2026-10-03",
+      "summaryBasis": "Publisher title and description; not a full transcript or independent fact-check of statements in the video.",
+      "status": "Publisher identity, publication timestamp, duration and player metadata checked on 3 October 2026. Full playback was not reviewed.",
+      "officialArchiveMembership": "Not established; independently discovered addition.",
+      "edition": "en",
+      "playerStatus": "OK",
+      "embedAvailable": true
+    },
+    {
+      "id": "6bFEo12lDUI",
+      "title": "நாசாவே வாயடைத்து போன மாஸ் சம்பவம் | Struggles of Indian Scientist | Mylswamy Annadurai ISRO | Mr.GK",
+      "editorialTitle": "An engineer’s journey — with Mr. GK",
+      "kind": "interview",
+      "description": "A long-form conversation with Dr. Annadurai, published by the Tamil science channel Mr. GK under the title “Struggles of Indian Scientist”.",
+      "selectionReason": "Substantial recorded audience and a format that gives the guest time to speak.",
+      "url": "https://www.youtube.com/watch?v=6bFEo12lDUI",
+      "source": "https://www.youtube.com/watch?v=6bFEo12lDUI",
+      "publisher": "Mr. GK",
+      "publisherUrl": "https://www.youtube.com/@MrGKTamil",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6bFEo12lDUI&format=json",
+      "verifiedOn": "2026-10-03",
+      "publishedAt": "2023-01-20T01:05:18-08:00",
+      "durationSeconds": 2505,
+      "viewCount": 435530,
+      "viewCountCheckedOn": "2026-10-03",
+      "summaryBasis": "Publisher title and description; not a full transcript or independent fact-check of statements in the video.",
+      "status": "Publisher identity, publication timestamp, duration and player metadata checked on 3 October 2026. Full playback was not reviewed.",
+      "officialArchiveMembership": "Not established; independently discovered addition.",
+      "edition": "ta",
+      "playerStatus": "OK",
+      "embedAvailable": true
+    },
+    {
+      "id": "VcjrlTcBcqE",
+      "title": "How 🇮🇳 Found💧On 🌕?| ISRO Scientist | Madan Gowri Podcast x Mylswamy Annadurai x Anand Megalingam",
+      "editorialTitle": "The Moon, Mars and space education — with Madan Gowri",
+      "kind": "interview",
+      "description": "Dr. Annadurai and Space Zone India’s Anand Megalingam join Madan Gowri to discuss lunar water, Mars, private space activity and learning in one’s mother tongue.",
+      "selectionReason": "Substantial recorded audience, with publisher-supplied chapter links.",
+      "url": "https://www.youtube.com/watch?v=VcjrlTcBcqE",
+      "source": "https://www.youtube.com/watch?v=VcjrlTcBcqE",
+      "publisher": "Madan Gowri",
+      "publisherUrl": "https://www.youtube.com/@madangowri",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVcjrlTcBcqE&format=json",
+      "verifiedOn": "2026-10-03",
+      "publishedAt": "2023-10-01T04:53:01-07:00",
+      "durationSeconds": 2979,
+      "viewCount": 158772,
+      "viewCountCheckedOn": "2026-10-03",
+      "summaryBasis": "Publisher title and description; not a full transcript or independent fact-check of statements in the video.",
+      "status": "Publisher identity, publication timestamp, duration and player metadata checked on 3 October 2026. Full playback was not reviewed.",
+      "officialArchiveMembership": "Not established; independently discovered addition.",
+      "sourceNote": "The publisher description incorrectly calls him a former ISRO chairman. His documented role was director of the ISRO Satellite Centre; the incorrect title is not used in this biography.",
+      "chapters": [
+        {
+          "seconds": 90,
+          "label": "Water on the Moon"
+        },
+        {
+          "seconds": 720,
+          "label": "Mars mission"
+        },
+        {
+          "seconds": 1200,
+          "label": "Learning in one’s mother tongue"
+        },
+        {
+          "seconds": 1980,
+          "label": "Students and space education"
+        }
+      ],
+      "edition": "ta",
+      "playerStatus": "OK",
+      "embedAvailable": true
+    },
+    {
+      "id": "JIzr664YHFo",
+      "title": "Chandrayaan-3 is not an isolated success: Mylswamy Annadurai",
+      "editorialTitle": "Chandrayaan-3 in the larger Indian space journey",
+      "kind": "interview",
+      "description": "A New Indian Express conversation on Chandrayaan-3’s success and its significance for the future of lunar exploration.",
+      "selectionReason": "A longer news interview published after the 2023 landing.",
+      "url": "https://www.youtube.com/watch?v=JIzr664YHFo",
+      "source": "https://www.youtube.com/watch?v=JIzr664YHFo",
+      "publisher": "The New Indian Express",
+      "publisherUrl": "https://www.youtube.com/@thenewindianxpress",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJIzr664YHFo&format=json",
+      "verifiedOn": "2026-10-03",
+      "publishedAt": "2023-08-31T09:15:08-07:00",
+      "durationSeconds": 5348,
+      "viewCount": 6148,
+      "viewCountCheckedOn": "2026-10-03",
+      "summaryBasis": "Publisher title and description; not a full transcript or independent fact-check of statements in the video.",
+      "status": "Publisher identity, publication timestamp, duration and player metadata checked on 3 October 2026. Full playback was not reviewed.",
+      "officialArchiveMembership": "Not established; independently discovered addition.",
+      "edition": "en",
+      "playerStatus": "OK",
+      "embedAvailable": true
+    },
+    {
+      "id": "QIDT0dQr0uI",
+      "title": "Dr.Mylswamy Annadurai's Keynote Speech during I3CIT 2020- International Conference || CIT Chennai",
+      "editorialTitle": "I3CIT 2020 keynote at CIT Chennai",
+      "kind": "talk",
+      "description": "The keynote for the International Conference on Computing, Communication and Information Technology, organized by CIT Chennai’s computing and IT departments on 30 July 2020.",
+      "selectionReason": "An institutional upload with an identified conference and event date.",
+      "url": "https://www.youtube.com/watch?v=QIDT0dQr0uI",
+      "source": "https://www.youtube.com/watch?v=QIDT0dQr0uI",
+      "publisher": "Chennai Institute of Technology (CIT Chennai)",
+      "publisherUrl": "https://www.youtube.com/@CITChennai1399",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQIDT0dQr0uI&format=json",
+      "verifiedOn": "2026-10-03",
+      "publishedAt": "2020-07-30T04:59:09-07:00",
+      "durationSeconds": 4244,
+      "viewCount": 323,
+      "viewCountCheckedOn": "2026-10-03",
+      "summaryBasis": "Publisher title and description; not a full transcript or independent fact-check of statements in the video.",
+      "status": "Publisher identity, publication timestamp, duration and player metadata checked on 3 October 2026. Full playback was not reviewed.",
+      "officialArchiveMembership": "Not established; independently discovered addition.",
+      "eventDate": "2020-07-30",
+      "edition": "en",
+      "playerStatus": "OK",
+      "embedAvailable": true
+    },
+    {
+      "id": "nElss3iRpB0",
+      "title": "Amalthea '20 Webinar 5: Dr. Mylswamy Annadurai",
+      "editorialTitle": "Amalthea webinar — IIT Gandhinagar",
+      "kind": "talk",
+      "description": "A webinar featuring Dr. Annadurai, published by Amalthea IIT Gandhinagar as part of its Amalthea ’20 series.",
+      "selectionReason": "A university-festival recording; its upload date is recorded separately from the series title.",
+      "url": "https://www.youtube.com/watch?v=nElss3iRpB0",
+      "source": "https://www.youtube.com/watch?v=nElss3iRpB0",
+      "publisher": "Amalthea IIT Gandhinagar",
+      "publisherUrl": "https://www.youtube.com/@amalthea_iitgn",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnElss3iRpB0&format=json",
+      "verifiedOn": "2026-10-03",
+      "publishedAt": "2021-01-09T17:50:08-08:00",
+      "durationSeconds": 4185,
+      "viewCount": 953,
+      "viewCountCheckedOn": "2026-10-03",
+      "summaryBasis": "Publisher title and description; not a full transcript or independent fact-check of statements in the video.",
+      "status": "Publisher identity, publication timestamp, duration and player metadata checked on 3 October 2026. Full playback was not reviewed.",
+      "officialArchiveMembership": "Not established; independently discovered addition.",
+      "edition": "en",
+      "playerStatus": "OK",
+      "embedAvailable": true,
+      "eventDate": "2021-01-09T12:33:04+00:00"
+    }
+  ],
+  "articles": [
+    {
+      "id": "banana-fibre",
+      "title": "IIITDM develops integrated machine that can process banana stem to make fibre yarn",
+      "publisher": "EdexLive / IANS",
+      "publishedDate": "2021-01-23",
+      "url": "https://www.edexlive.com/campus/2021/jan/23/iitdm-develops-integrated-machine-that-can-process-banana-stem-to-make-fibre-yarn-17529.html",
+      "description": "Reporting on an initiative spearheaded by Annadurai, involving IIITDM researchers and students and industry partner Gencrest.",
+      "verifiedOn": "2026-10-02"
+    }
+  ]
+}

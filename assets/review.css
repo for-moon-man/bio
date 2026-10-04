@@ -1,0 +1,24 @@
+.record-review {
+  border-left: 2px solid currentColor;
+  padding-left: 12px;
+  margin-block: 14px;
+  font-size: 12px;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+.record-review p {
+  margin-block: 5px;
+}
+.record-review a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.award-year {
+  overflow-wrap: anywhere;
+}
+.recorded-period {
+  display: block;
+  font-size: 11px;
+  line-height: 1.5;
+  margin-top: 8px;
+}

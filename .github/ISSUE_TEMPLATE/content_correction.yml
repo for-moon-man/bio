@@ -1,0 +1,22 @@
+name: Content correction
+description: Propose a sourced correction to the English or Tamil biography.
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Page, section, and language
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Current wording and proposed correction
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Supporting sources and dates
+      description: Include reliable source URLs. Identify uncertain or conflicting records.
+    validations:
+      required: true

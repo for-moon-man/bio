@@ -1,0 +1,187 @@
+{
+  "reviewedOn": "2026-10-03",
+  "wikipedia": "https://en.wikipedia.org/w/index.php?title=Mylswamy_Annadurai&oldid=1376809719",
+  "books": [
+    {
+      "id": "kaiyaruke-nila",
+      "title": "Kaiyaruke Nila",
+      "titleTa": "கையருகே நிலா",
+      "theme": "Memoir & the Moon",
+      "themeTa": "வாழ்க்கையும் நிலவுப் பயணமும்",
+      "summary": "An autobiographical account connecting his early life with the Chandrayaan journey. The New Indian Express also refers to the book when reporting on his attachment to his home village’s lake.",
+      "summaryTa": "இளமைப் பருவத்தையும் சந்திரயான் பயணத்தையும் இணைக்கும் தன்வரலாற்று நூல். தனது சொந்த ஊரின் ஏரி மீதான அக்கறையைப் பற்றிய செய்தியிலும் தி நியூ இந்தியன் எக்ஸ்பிரஸ் இந்நூலைக் குறிப்பிடுகிறது.",
+      "year": null,
+      "publisher": null,
+      "publisherTa": null,
+      "collaborator": null,
+      "collaboratorTa": null,
+      "isbn": null,
+      "cover": "assets/books/kaiyaruke-nila.webp",
+      "coverWidth": 236,
+      "coverHeight": 320,
+      "coverSource": "https://www.goodreads.com/book/show/18781356",
+      "coverImageSource": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1384216836i/18781356.jpg",
+      "coverCredit": "Cover via Goodreads; artwork belongs to its respective rights holders.",
+      "sources": [
+        {
+          "label": "The New Indian Express · 20 December 2021",
+          "labelTa": "தி நியூ இந்தியன் எக்ஸ்பிரஸ் · 20 டிசம்பர் 2021",
+          "url": "https://www.newindianexpress.com/states/tamil-nadu/2021/Dec/20/moon-mans-long-standing-dream-becomes-a-reality-2397627.html"
+        },
+        {
+          "label": "Goodreads · book & cover",
+          "labelTa": "குட்ரீட்ஸ் · நூலும் அட்டையும்",
+          "url": "https://www.goodreads.com/book/show/18781356"
+        }
+      ],
+      "note": "Publication year is not established by the checked catalogue. Wikipedia associates this book with the 2013 C. Pa. Adithanar Literary Award; independent confirmation of that book-to-award link remains pending.",
+      "noteTa": "பார்க்கப்பட்ட நூற்பட்டியலில் வெளியீட்டு ஆண்டு உறுதியாகவில்லை. 2013 சி. பா. ஆதித்தனார் இலக்கிய விருதுடன் இந்நூலை விக்கிப்பீடியா தொடர்புபடுத்துகிறது; அந்தத் தொடர்புக்கான தனி ஆதாரம் இன்னும் உறுதியாகவில்லை."
+    },
+    {
+      "id": "siragai-virikkum-mangalyaan",
+      "title": "Siragai Virikkum Mangalyaan",
+      "titleTa": "சிறகை விரிக்கும் மங்கள்யான்",
+      "theme": "The journey to Mars",
+      "themeTa": "செவ்வாய்ப் பயணம்",
+      "summary": "A Tamil title on Mangalyaan, listed by Noolulagam under Annadurai’s name and published by Thanthi Publications.",
+      "summaryTa": "மங்கள்யான் பற்றிய தமிழ் நூல். நூலுலகம் பட்டியலில் மயில்சாமி அண்ணாதுரையின் நூலாகவும் தந்தி பதிப்பக வெளியீடாகவும் இடம்பெற்றுள்ளது.",
+      "year": 2015,
+      "publisher": "Thanthi Publications",
+      "publisherTa": "தந்தி பதிப்பகம்",
+      "collaborator": null,
+      "collaboratorTa": null,
+      "isbn": "9788193129500",
+      "cover": "assets/books/siragai-virikkum-mangalyaan.webp",
+      "coverWidth": 235,
+      "coverHeight": 360,
+      "coverSource": "https://www.amazon.in/dp/8193129504",
+      "coverImageSource": "https://m.media-amazon.com/images/I/51HXje-BKdL._SY445_SX342_ML2_.jpg",
+      "coverCredit": "Thanthi Publications; cover via Amazon’s book listing.",
+      "sources": [
+        {
+          "label": "Noolulagam · publisher listing",
+          "labelTa": "நூலுலகம் · பதிப்பக விவரம்",
+          "url": "https://www.noolulagam.com/books/38039"
+        },
+        {
+          "label": "Amazon · edition & cover",
+          "labelTa": "அமேசான் · பதிப்பும் அட்டையும்",
+          "url": "https://www.amazon.in/dp/8193129504"
+        }
+      ],
+      "note": "Amazon lists a 2015 edition and this ISBN; Noolulagam lists 2019. These are catalogue years, not proof of first publication or a launch day. Wikipedia mentions a Kannada translation; translator and edition details are unconfirmed.",
+      "noteTa": "அமேசான் 2015 என்ற ஆண்டையும் இந்த ISBN எண்ணையும் தருகிறது; நூலுலகம் 2019 எனக் குறிப்பிடுகிறது. இவை பட்டியலிடப்பட்ட பதிப்புகளின் ஆண்டுகள்; முதல் வெளியீட்டு நாளுக்கான ஆதாரமல்ல. கன்னட மொழிபெயர்ப்பு இருப்பதாக விக்கிப்பீடியா குறிப்பிடுகிறது; மொழிபெயர்ப்பாளர், பதிப்பு விவரங்கள் உறுதியாகவில்லை."
+    },
+    {
+      "id": "valarum-ariviyal-kalanjiyam",
+      "title": "Valarum Ariviyal Kalanjiyam",
+      "titleTa": "வளரும் அறிவியல் களஞ்சியம்",
+      "theme": "Science for young readers",
+      "themeTa": "இளம் வாசகர்களுக்கான அறிவியல்",
+      "summary": "A collection of science essays for students, including writing that appeared in Valarum Ariviyal magazine. The publisher and cover credit Annadurai and E. K. T. Sivakumar.",
+      "summaryTa": "மாணவர்களுக்கான அறிவியல் கட்டுரைகளின் தொகுப்பு; வளரும் அறிவியல் இதழில் வெளியான கட்டுரைகளும் இதில் இடம்பெறுகின்றன. பதிப்பாளர் பதிவும் அட்டையும் அண்ணாதுரை, ஈ. கே. டி. சிவகுமார் ஆகிய இருவரையும் குறிப்பிடுகின்றன.",
+      "year": 2012,
+      "publisher": "Sixth Sense Publications",
+      "publisherTa": "சிக்ஸ்த் சென்ஸ் பப்ளிகேஷன்ஸ்",
+      "collaborator": "E. K. T. Sivakumar",
+      "collaboratorTa": "ஈ. கே. டி. சிவகுமார்",
+      "isbn": "9789382577706",
+      "cover": "assets/books/valarum-ariviyal-kalanjiyam.webp",
+      "coverWidth": 200,
+      "coverHeight": 300,
+      "coverSource": "https://www.noolulagam.com/books/12932",
+      "coverImageSource": "https://images.noolulagam.com/books/12932.jpg",
+      "coverCredit": "Sixth Sense Publications; cover via Noolulagam.",
+      "sources": [
+        {
+          "label": "Sixth Sense · publisher record",
+          "labelTa": "சிக்ஸ்த் சென்ஸ் · பதிப்பாளர் பதிவு",
+          "url": "https://sixthsensepublications.com/index.php?route=product/product&product_id=756"
+        },
+        {
+          "label": "Noolulagam · edition & cover",
+          "labelTa": "நூலுலகம் · பதிப்பும் அட்டையும்",
+          "url": "https://www.noolulagam.com/books/12932"
+        }
+      ],
+      "note": "Noolulagam lists 2012 and this ISBN. Its page count differs from the publisher’s, so no page total is asserted. Wikipedia lists “Valarum Ariviyal” and “Ariviyal Kalanjiyam” separately; the checked publisher identifies this combined title. Separate editions have not been established.",
+      "noteTa": "நூலுலகம் 2012 என்ற ஆண்டையும் இந்த ISBN எண்ணையும் தருகிறது. பக்க எண்ணிக்கை பதிப்பாளர் பதிவுடன் மாறுபடுவதால் இங்கு காட்டப்படவில்லை. விக்கிப்பீடியா இரு தலைப்புகளாகப் பிரித்துள்ளது; பதிப்பாளர் இவற்றை இணைந்த ஒரே நூலாகப் பட்டியலிடுகிறார். தனித்தனி பதிப்புகள் உறுதியாகவில்லை."
+    },
+    {
+      "id": "vinnum-mannum",
+      "title": "Vinnum Mannum",
+      "titleTa": "விண்ணும் மண்ணும்",
+      "theme": "Science & society",
+      "themeTa": "அறிவியலும் சமூகமும்",
+      "summary": "A Tamil book credited to Mylswamy Annadurai and scientist V. Dillibabu. The catalogue identifies an edition from Murankalari Padaippagam.",
+      "summaryTa": "மயில்சாமி அண்ணாதுரையும் விஞ்ஞானி வி. டில்லிபாபுவும் இணைந்து எழுதிய தமிழ் நூல். முரண்களரி படைப்பகத்தின் பதிப்பு நூற்பட்டியலில் இடம்பெற்றுள்ளது.",
+      "year": 2020,
+      "publisher": "Murankalari Padaippagam",
+      "publisherTa": "முரண்களரி படைப்பகம்",
+      "collaborator": "V. Dillibabu",
+      "collaboratorTa": "வி. டில்லிபாபு",
+      "isbn": "9789383178544",
+      "cover": "assets/books/vinnum-mannum.webp",
+      "coverWidth": 236,
+      "coverHeight": 360,
+      "coverSource": "https://www.amazon.in/dp/938317854X",
+      "coverImageSource": "https://m.media-amazon.com/images/I/419PH-JeubL._SY445_SX342_ML2_.jpg",
+      "coverCredit": "Murankalari Padaippagam; cover via Amazon’s book listing.",
+      "sources": [
+        {
+          "label": "Amazon · edition & cover",
+          "labelTa": "அமேசான் · பதிப்பும் அட்டையும்",
+          "url": "https://www.amazon.in/dp/938317854X"
+        }
+      ],
+      "note": "2020 follows the listed edition; the catalogue’s 1 January date is not treated as a verified launch day. Wikipedia associates the book with the 2021 Manavai Mustafa science award; independent award documentation is pending.",
+      "noteTa": "2020 என்பது பட்டியலிடப்பட்ட பதிப்பின் ஆண்டு; ஜனவரி 1 என்பதை உறுதியான வெளியீட்டு நாளாகக் கருதவில்லை. 2021 மணவை முஸ்தபா அறிவியல் விருதுடன் விக்கிப்பீடியா இந்நூலைத் தொடர்புபடுத்துகிறது; தனி விருது ஆதாரம் இன்னும் உறுதியாகவில்லை."
+    },
+    {
+      "id": "periyarum-ariviyalum",
+      "title": "Periyarum Ariviyalum",
+      "titleTa": "பெரியாரும் அறிவியலும்",
+      "theme": "Periyar & scientific thought",
+      "themeTa": "பெரியாரும் அறிவியல் சிந்தனையும்",
+      "summary": "A Tamil work on Periyar and science. PeriyarBooks lists a 63-page first edition published in 2023 by Periyar Sinthanai Uyarayvu Maiyam.",
+      "summaryTa": "பெரியாரையும் அறிவியலையும் பற்றிய தமிழ் நூல். பெரியார் சிந்தனை உயராய்வு மையம் வெளியிட்ட 63 பக்க முதல் பதிப்பின் ஆண்டை 2023 எனப் பெரியார் புக்ஸ் குறிப்பிடுகிறது.",
+      "year": 2023,
+      "publisher": "Periyar Sinthanai Uyarayvu Maiyam",
+      "publisherTa": "பெரியார் சிந்தனை உயராய்வு மையம்",
+      "collaborator": null,
+      "collaboratorTa": null,
+      "isbn": null,
+      "cover": "assets/books/periyarum-ariviyalum.webp",
+      "coverWidth": 240,
+      "coverHeight": 240,
+      "coverSource": "https://periyarbooks.com/products/periyarum-ariviyalum",
+      "coverImageSource": "https://periyarbooks.com/cdn/shop/files/PeriyarumAriviyalumF_500x500.jpg?v=1756700618",
+      "coverCredit": "Periyar Sinthanai Uyarayvu Maiyam; cover via PeriyarBooks.",
+      "sources": [
+        {
+          "label": "PeriyarBooks · edition & cover",
+          "labelTa": "பெரியார் புக்ஸ் · பதிப்பும் அட்டையும்",
+          "url": "https://periyarbooks.com/products/periyarum-ariviyalum"
+        }
+      ],
+      "note": "The bookseller explicitly identifies the 2023 first edition; no exact publication day or ISBN is supplied.",
+      "noteTa": "புத்தக விற்பனையாளர் 2023 முதல் பதிப்பு என்று தெளிவாகக் குறிப்பிடுகிறார்; வெளியீட்டு நாளோ ISBN எண்ணோ தரப்படவில்லை."
+    }
+  ],
+  "pending": [
+    {
+      "id": "india-75",
+      "title": "India–75",
+      "titleTa": "இந்தியா–75",
+      "note": "Listed in both Wikipedia editions; the Tamil article expands the title as “Pormunai Muthal Aermunai Varai”. Publisher, edition date, authorship details and an authentic cover remain unconfirmed.",
+      "noteTa": "இரு மொழி விக்கிப்பீடியா பதிவுகளிலும் உள்ளது; தமிழ்ப் பதிவு “போர்முனை முதல் ஏர்முனை வரை” என விரிவாக்குகிறது. பதிப்பகம், பதிப்பு ஆண்டு, ஆசிரியர் விவரங்கள், உண்மையான அட்டைப்படம் உறுதியாகவில்லை."
+    },
+    {
+      "id": "ariviyalum-maanudamum",
+      "title": "Ariviyalum Maanudamum",
+      "titleTa": "அறிவியலும் மானுடமும்",
+      "note": "Listed in English Wikipedia. A matching publisher or library record and an authentic cover have not yet been established.",
+      "noteTa": "ஆங்கில விக்கிப்பீடியாவில் பட்டியலிடப்பட்டுள்ளது. பொருந்தும் பதிப்பாளர் அல்லது நூலகப் பதிவும் உண்மையான அட்டைப்படமும் இன்னும் உறுதிப்படுத்தப்படவில்லை."
+    }
+  ]
+}

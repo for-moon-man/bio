@@ -1,28 +1,61 @@
-# Dr. Mylswamy Annadurai
+# Dr. Mylswamy Annadurai — Moon Man of India
 
-A static, seven-page biography site. Open `index.html` directly in a browser; no server is needed. Publish this directory without `node_modules` to any static host.
+A bilingual biography website covering Dr. Annadurai's life, space missions, honours, public talks, and upcoming events. The English edition has a modern editorial design; the Tamil edition uses a traditional literary style. Both run on static hosting with no backend.
 
-## Pages
+[English edition](https://for-moon-man.github.io/bio/) · [தமிழ்ப் பதிப்பு](https://for-moon-man.github.io/bio/tamil.html) · [Contributing](CONTRIBUTING.md) · [Copyright](LICENSE)
 
-- `index.html`: photographic overview, milestones and mission features.
-- `biography.html`: biography and 37 filterable chronology entries.
-- `missions.html`: lunar exploration, satellite operations and programme leadership.
-- `honours.html`: 78 searchable source entries, including fellowships and duplicates recorded in the original categories.
-- `gallery.html`: local photographs with a keyboard-accessible viewer, 40 original photo links, and video links.
-- `tamil.html`: the supplied Tamil biography, including a clearly labelled historical events archive.
-- `sources.html`: source context and image attribution.
+## Quick start
 
-## Editing and rebuilding
-
-Node.js 20 or newer is required only for rebuilding:
+Use **Node.js 24 LTS** and npm. Node.js 20 is the minimum supported runtime; CI covers Node.js 22 and 24.
 
 ```sh
 npm ci
 npm run build
+npm run preview
 ```
 
-Edit `build.mjs` for page structure and editorial text, `assets/site.css` for styling, and `assets/site.js` for interactions. The builder preserves the supplied chronology, awards and Tamil content from `old/content/`. Generated HTML is checked in so the site works without Node.js.
+Open <http://127.0.0.1:4173>. The build regenerates the root HTML files and creates a clean **`dist/`** directory for publishing. Root `index.html` and `tamil.html` also work when opened directly. The live calendar and external media need an internet connection.
 
-The `old/` snapshot has been left untouched. Original image hosting was blocked by the local network's category policy; those images are preserved as external links rather than broken embedded photographs. Three credited Wikimedia images are stored locally. Google Fonts is the only runtime network dependency; system fallbacks apply offline.
+## Commands
 
-Open-ended roles reflect the supplied September 2026 snapshot, not independent verification. Review current appointments and historical source wording before public publication. No invented contact information, contact forms or event bookings are included.
+| Command                | Purpose                                                                  |
+| ---------------------- | ------------------------------------------------------------------------ |
+| `npm run build`        | Generate the site and package public files in `dist/`                    |
+| `npm run preview`      | Serve the built site on localhost                                        |
+| `npm test`             | Check content, links, attribution, publishing, and preview behavior      |
+| `npm run check`        | Check formatting, rebuild, and run tests                                 |
+| `npm run format`       | Format maintained source files                                           |
+| `npm run test:browser` | Check all pages in Chromium; first run `npx playwright install chromium` |
+
+## Website
+
+| Page                             | Content                                                                |
+| -------------------------------- | ---------------------------------------------------------------------- |
+| [index.html](index.html)         | English overview, public calendar, milestones, and mission features    |
+| [biography.html](biography.html) | Life story and 37 career records                                       |
+| [missions.html](missions.html)   | Mission narratives and 14 assignments                                  |
+| [honours.html](honours.html)     | Padma Shri feature and 79 searchable honours                           |
+| [gallery.html](gallery.html)     | English recordings and credited image collections                      |
+| [tamil.html](tamil.html)         | Tamil biography, calendar, honours, interviews, and historical records |
+| [sources.html](sources.html)     | Editorial notes, independent references, and image credits             |
+
+Core biography content is readable without JavaScript. Enhancements add filtering, image viewing, navigation, and videos loaded on request. Both calendars request public events directly from Google on each visit; changing an event does not require republishing the website. Titles and descriptions use the language entered in Google Calendar.
+
+## Maintenance
+
+- [Development guide](docs/DEVELOPMENT.md): structure, editing map, source handling, and checks.
+- [Deployment guide](docs/DEPLOYMENT.md): GitHub Pages, publishing boundaries, and calendar settings.
+- [Contribution guide](CONTRIBUTING.md): editorial standards and review expectations.
+- [Content rights and embedding rules](docs/CONTENT_RIGHTS.md): evidence scope, publisher embeds, attribution and unresolved rights.
+- [Security guidance](SECURITY.md): reporting and maintenance practices.
+- [Changelog](CHANGELOG.md) and [historical reports](docs/reports/README.md).
+
+Edit `build.mjs`, `lib/`, `data/`, and authored assets; rebuild rather than editing generated HTML. The supplied source texts are in `content/`, with archival image identifiers in `data/image-inventory.txt`. Local research, dependencies, publishing output, and the original ZIP are excluded from version control as appropriate.
+
+GitHub workflows validate changes and provide a **manual** Pages deployment. Publish only `dist/`; local builds do not deploy anything. Workflow setup is documented in the deployment guide.
+
+## Ownership and licensing
+
+**© 2026 Dr. Mylswamy Annadurai, the Moon Man of India. All rights reserved.** Original website code, design, and content owned by Dr. Annadurai are proprietary. See [LICENSE](LICENSE). The npm metadata uses `UNLICENSED` to indicate that the project is not offered under an open-source license.
+
+Third-party photographs, fonts, libraries, and other materials retain their own rights and licenses. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and the published image credits. Public source visibility does not grant permission to reuse proprietary materials.

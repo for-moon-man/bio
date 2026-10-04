@@ -1,0 +1,28 @@
+name: Bug report
+description: Report a broken page, layout, or interaction.
+body:
+  - type: markdown
+    attributes:
+      value: Do not include private calendar information or security exploit details. See SECURITY.md for security reports.
+  - type: input
+    id: page
+    attributes:
+      label: Affected page and language
+      placeholder: tamil.html, Tamil
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps, expected behavior, and actual behavior
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and device
+      placeholder: Chrome on Android, 390 px wide
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or additional context

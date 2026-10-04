@@ -1,0 +1,968 @@
+{
+  "checkedOn": "2026-10-03",
+  "sources": {
+    "ursc": {
+      "title": "URSC: Dr M Annadurai",
+      "titleTa": "யு.ஆர்.எஸ்.சி.: முனைவர் அண்ணாதுரை",
+      "url": "https://www.ursc.gov.in/directors/annadurai.jsp",
+      "scope": "Employer biography, last updated 1 August 2018; supports the listed roles and selected honours, not later appointments."
+    },
+    "ndrf": {
+      "title": "NDRF: chairmen register",
+      "titleTa": "என்.டி.ஆர்.எஃப்.: தலைவர்கள் பதிவு",
+      "url": "https://www.ndrf.res.in/chairmen.html",
+      "scope": "Exact chairmanship: 18 February 2019–7 March 2022; the register takes precedence over the supplied 2019–2023 range."
+    },
+    "firodia": {
+      "title": "H. K. Firodia Foundation: winners by year",
+      "titleTa": "எச். கே. ஃபிரோதியா அறக்கட்டளை: ஆண்டு வாரியான விருதாளர்கள்",
+      "url": "https://hkfirodiaawards.org/awards-by-year.php",
+      "scope": "Lists Annadurai and Yash Pal under 2009. Resolves the URSC profile’s conflicting 2007 year."
+    },
+    "firodia-news": {
+      "title": "The Times of India: Firodia awards (6 December 2009)",
+      "titleTa": "தி டைம்ஸ் ஆஃப் இந்தியா: ஃபிரோதியா விருதுகள் (6 டிசம்பர் 2009)",
+      "url": "https://timesofindia.indiatimes.com/city/pune/Firodia-awards-for-Yash-Pal-Annadurai/articleshow/5306103.cms",
+      "scope": "Contemporary announcement supports the 2009 award year, but does not establish its presentation day."
+    },
+    "poorna": {
+      "title": "The Hindu: Poorna Chandra award (18 November 2008, archived)",
+      "titleTa": "தி இந்து: பூர்ண சந்திரா விருது (18 நவம்பர் 2008, காப்பகம்)",
+      "url": "https://web.archive.org/web/20121107044256/http://www.hindu.com/2008/11/18/stories/2008111855000500.htm",
+      "scope": "Reports the completed award ceremony organized by Rotary Clubs of Coimbatore and GCT. Publication date is not substituted for ceremony date."
+    },
+    "niqr": {
+      "title": "The Hindu: NIQR–Bajaj award (11 November 2009, archived)",
+      "titleTa": "தி இந்து: NIQR–பஜாஜ் விருது (11 நவம்பர் 2009, காப்பகம்)",
+      "url": "https://web.archive.org/web/20091114165040/http://www.hindu.com/2009/11/11/stories/2009111150760200.htm",
+      "scope": "Reports Annadurai receiving the Outstanding Quality Man award; identifies National Institution for Quality and Reliability."
+    },
+    "aiaa": {
+      "title": "The Hindu: Space Systems Award (6 September 2009)",
+      "titleTa": "தி இந்து: விண்வெளி அமைப்புகள் விருது (6 செப்டம்பர் 2009)",
+      "url": "https://www.thehindu.com/news/national/Space-Systems-award-for-Chandrayaan/article16879456.ece",
+      "scope": "The recipient is the Chandrayaan-1 team; Annadurai was to accept on its behalf. The planned September 16 presentation is not treated as a verified event date."
+    },
+    "isrs": {
+      "title": "ISRS: awards and fellows register",
+      "titleTa": "இந்தியத் தொலையுணர்வுக் கழகம்: விருதுகள் மற்றும் உறுப்பினர் பதிவு",
+      "url": "https://www.isrs-india.org/list-of-awardees.aspx",
+      "scope": "Confirms the 2016 Bhaskara Award and fellowship. The fellowship row contains a dash for the year; no election date is supplied."
+    },
+    "aif": {
+      "title": "American India Foundation: Annadurai profile",
+      "titleTa": "அமெரிக்க இந்திய அறக்கட்டளை: அண்ணாதுரை குறிப்பு",
+      "url": "https://aif.org/people/dr-mylswamy-annadurai/",
+      "scope": "Supports the 2016 IEI–IEEE award and advisory connections, but does not establish their start/end dates. Its council tenure differs from the collection."
+    },
+    "aif-people": {
+      "title": "American India Foundation: people",
+      "titleTa": "அமெரிக்க இந்திய அறக்கட்டளை: நிர்வாகப் பட்டியல்",
+      "url": "https://aif.org/about/people/",
+      "scope": "Lists Annadurai; does not date his appointment."
+    },
+    "ssi": {
+      "title": "SS Innovations: leadership",
+      "titleTa": "எஸ்.எஸ். இன்னோவேஷன்ஸ்: நிர்வாகம்",
+      "url": "https://ssinnovations.com/leadership/",
+      "scope": "Lists Annadurai as a board member; does not establish the 2023 appointment date or independently resolve the legal entities in the collection."
+    },
+    "kaynes": {
+      "title": "Kaynes: appointment disclosure (13 May 2026, PDF)",
+      "titleTa": "கெய்ன்ஸ்: நியமன அறிவிப்பு (13 மே 2026, PDF)",
+      "url": "https://www.kaynestechnology.co.in/doc/Stock-Exchange-Disclosures/ChangeInManagement13May2026.pdf",
+      "scope": "Annexure E appoints Annadurai as an Additional Non-Executive Independent Director effective 13 May 2026 for a proposed five-year term, subject to shareholder approval."
+    },
+    "kaynes-board": {
+      "title": "Kaynes: board and disclosures",
+      "titleTa": "கெய்ன்ஸ்: நிர்வாகம் மற்றும் அறிவிப்புகள்",
+      "url": "https://www.kaynestechnology.co.in/investors.html",
+      "scope": "Current board page lists Annadurai; the appointment filing supplies the effective date."
+    },
+    "curriculum": {
+      "title": "The Times of India: curriculum appointment (29 June 2026)",
+      "titleTa": "தி டைம்ஸ் ஆஃப் இந்தியா: பாடத்திட்டக் குழு நியமனம் (29 ஜூன் 2026)",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/isros-chandrayaan-1-scientist-mylswamy-annadurai-to-head-tamil-nadus-curriculum-design-committee/articleshow/132075811.cms",
+      "scope": "Reports the chairman appointment in June 2026; publication date is not asserted as the effective appointment day."
+    },
+    "spacezone": {
+      "title": "Space Zone India: mission record",
+      "titleTa": "ஸ்பேஸ் ஸோன் இந்தியா: திட்டப் பதிவு",
+      "url": "https://www.spacezoneindia.com/",
+      "scope": "Credits Annadurai’s guidance for RHUMI-2024, but does not establish a 2022 advisory appointment."
+    },
+    "youth-space-congress": {
+      "title": "The Times of India: Inspiring young space explorers",
+      "titleTa": "தி டைம்ஸ் ஆஃப் இந்தியா: இளம் விண்வெளி ஆர்வலர்களுக்கு ஊக்கம்",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/science-congress-inspires-next-gen-space-explorers-at-city-college/articleshow/134548774.cms",
+      "scope": "Reports participation in a completed regional congress, not the later state-level conference."
+    },
+    "weekend-leader-lifetime": {
+      "title": "The Hindu: Lifetime Achievement Award for space science",
+      "titleTa": "தி இந்து: விண்வெளி அறிவியலுக்கான வாழ்நாள் சாதனையாளர் விருது",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/awards-given-for-contribution-to-education-space-science-and-business/article67933193.ece",
+      "scope": "Confirms the award already listed in the collection; publication date is not asserted as the ceremony date."
+    },
+    "robotic-surgery-conference": {
+      "title": "The Times of India: Bringing space technology into healthcare",
+      "titleTa": "தி டைம்ஸ் ஆஃப் இந்தியா: மருத்துவத்தில் விண்வெளித் தொழில்நுட்பம்",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/healthcare-needs-transformation-via-space-tech-ex-isro-scientist/articleshow/107002068.cms",
+      "scope": "Reports his address and proposed applications, not clinical outcomes."
+    },
+    "tamil-nadu-scientists": {
+      "title": "The Economic Times / PTI: Tamil Nadu honours its space scientists",
+      "titleTa": "தி எகனாமிக் டைம்ஸ் / பி.டி.ஐ.: விண்வெளி விஞ்ஞானிகளுக்குத் தமிழகத்தின் பாராட்டு",
+      "url": "https://economictimes.indiatimes.com/news/india/mk-stalin-fetes-isro-scientists-from-tamil-nadu-announces-award-of-rs-25-lakh-each-for-all-nine-of-them/articleshow/104112071.cms",
+      "scope": "Confirms felicitation and an announced cash award; does not establish payment."
+    },
+    "trichy-stem-centre": {
+      "title": "The Times of India: Supporting hands-on science in schools",
+      "titleTa": "தி டைம்ஸ் ஆஃப் இந்தியா: பள்ளிகளில் செயல்முறை அறிவியல் கற்றலுக்கு ஆதரவு",
+      "url": "https://timesofindia.indiatimes.com/city/trichy/stem-centre-opened-at-trichy-school/articleshow/102556915.cms",
+      "scope": "Confirms presence at the opening; does not attribute inauguration to Annadurai or claim projected training targets were achieved."
+    },
+    "coimbatore-padma-felicitation": {
+      "title": "The Times of India: Coimbatore celebrates its Padma Shri recipients",
+      "titleTa": "தி டைம்ஸ் ஆஃப் இந்தியா: பத்மஸ்ரீ பெற்றவர்களுக்குக் கோவையில் பாராட்டு",
+      "url": "https://timesofindia.indiatimes.com/city/coimbatore/padma-shri-winners-from-cotton-city-felicitated/articleshow/52197856.cms",
+      "scope": "A local felicitation following the Padma Shri, not a separate national award."
+    },
+    "padma": {
+      "title": "President’s Secretariat: Padma Shri presentation",
+      "titleTa": "குடியரசுத் தலைவர் செயலகம்: பத்மஸ்ரீ வழங்கல்",
+      "url": "https://archive.pib.gov.in/archive2/photoright.aspx?phid=78665",
+      "scope": "Official PIB photograph caption identifies Annadurai, President Pranab Mukherjee, Rashtrapati Bhavan and the presentation date, 28 March 2016. Link to the original record; the article is not reproduced."
+    },
+    "insat-3b": {
+      "title": "ISRO: INSAT-3B",
+      "titleTa": "இஸ்ரோ: INSAT-3B",
+      "url": "https://www.isro.gov.in/INSAT_3B.html",
+      "scope": "Official satellite mission record and technical context; not proof of an individual’s assignment or tenure."
+    }
+  },
+  "records": {
+    "government-01": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "government-02": {
+      "status": "confirmed",
+      "sources": ["ursc", "padma"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "government-03": {
+      "status": "confirmed",
+      "sources": ["tamil-nadu-scientists"],
+      "note": "Felicitation and announcements on 2 October 2023 are reported; payment and an individually named scholarship are not established.",
+      "noteTa": "2 அக்டோபர் 2023 பாராட்டு விழாவும் அறிவிப்புகளும் உறுதிப்படுத்தப்பட்டுள்ளன; பணம் வழங்கப்பட்டதும் தனிப்பெயர் உதவித்தொகையும் உறுதிப்படுத்தப்படவில்லை.",
+      "changes": {
+        "title": "Tamil Nadu felicitation and announced cash award",
+        "date": "2023-10-02",
+        "description": "Honoured among nine space scientists. The Chief Minister announced ₹25 lakh for each and a scholarship programme for postgraduate engineering students."
+      },
+      "tamilText": "தமிழக அரசு பாராட்டு விழா — 2 அக்டோபர் 2023. ஒன்பது விண்வெளி விஞ்ஞானிகளுக்குத் தலா ரூ.25 லட்சமும், பொறியியல் முதுநிலை மாணவர்களுக்கான உதவித்தொகைத் திட்டமும் அறிவிக்கப்பட்டன."
+    },
+    "academia-01": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "academia-02": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "academia-03": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "academia-04": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "academia-05": {
+      "status": "collection",
+      "sources": [],
+      "note": "The collection’s “76th Indian Science Congress” wording does not establish an award year; the event edition is unconfirmed.",
+      "noteTa": "தொகுப்பில் உள்ள மாநாட்டு எண் விருதின் ஆண்டை உறுதிப்படுத்தாது; மாநாட்டுப் பதிப்பும் உறுதியாகவில்லை.",
+      "changes": {
+        "organization": "Madurai Kamaraj University Endowment",
+        "description": "The award year and associated congress edition require confirmation."
+      }
+    },
+    "academia-06": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "academia-07": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "academia-08": {
+      "status": "collection",
+      "sources": [],
+      "note": "The award or election year is not established. This entry relies on the supplied collection.",
+      "noteTa": "விருது அல்லது உறுப்பினர் தேர்வு ஆண்டு உறுதியாகவில்லை. இப்பதிவு வழங்கப்பட்ட தொகுப்பைச் சார்ந்தது."
+    },
+    "academia-09": {
+      "status": "collection",
+      "sources": [],
+      "note": "The award or election year is not established. This entry relies on the supplied collection.",
+      "noteTa": "விருது அல்லது உறுப்பினர் தேர்வு ஆண்டு உறுதியாகவில்லை. இப்பதிவு வழங்கப்பட்ட தொகுப்பைச் சார்ந்தது."
+    },
+    "academia-10": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "academia-11": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "academia-12": {
+      "status": "collection",
+      "sources": [],
+      "note": "The award or election year is not established. This entry relies on the supplied collection.",
+      "noteTa": "விருது அல்லது உறுப்பினர் தேர்வு ஆண்டு உறுதியாகவில்லை. இப்பதிவு வழங்கப்பட்ட தொகுப்பைச் சார்ந்தது."
+    },
+    "academia-13": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "academia-14": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "academia-15": {
+      "status": "confirmed",
+      "sources": ["weekend-leader-lifetime"],
+      "note": "The Hindu reported the award on 10 March 2024. This is one recognition recorded in two collection categories.",
+      "noteTa": "10 மார்ச் 2024 தி இந்து செய்தி இவ்விருதை உறுதிப்படுத்துகிறது. ஒரே விருது தொகுப்பின் இரு பிரிவுகளில் உள்ளது.",
+      "changes": {}
+    },
+    "isro-01": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "isro-02": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "isro-03": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "isro-04": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "isro-05": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "isro-06": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "professional-01": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "professional-02": {
+      "status": "partial",
+      "sources": ["ursc"],
+      "note": "URSC confirms a Boeing appreciation certificate but supplies no year and does not confirm the Houston location.",
+      "noteTa": "போயிங் பாராட்டுச் சான்றிதழை யு.ஆர்.எஸ்.சி. உறுதிப்படுத்துகிறது; ஆண்டும் ஹூஸ்டன் இடமும் உறுதிப்படுத்தப்படவில்லை.",
+      "changes": {}
+    },
+    "professional-03": {
+      "status": "confirmed",
+      "sources": ["aiaa", "ursc"],
+      "note": "The 2009 award was to the Chandrayaan-1 team, with Annadurai accepting on its behalf; it is not a separate individual award.",
+      "noteTa": "2009 விருது சந்திரயான்–1 குழுவுக்கானது; குழுவின் சார்பில் அண்ணாதுரை பெற்றது. தனிநபர் விருது அல்ல.",
+      "changes": {
+        "kind": "Team award",
+        "description": "Chandrayaan-1 team recognition; Annadurai represented the mission team."
+      },
+      "tamilText": "சந்திரயான்–1 குழுவுக்கான விண்வெளி அமைப்புகள் விருது — 2009, அமெரிக்கன் இன்ஸ்டிடியூட் ஆஃப் ஏரோநாட்டிக்ஸ் அண்ட் ஆஸ்ட்ரோநாட்டிக்ஸ்."
+    },
+    "professional-04": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "professional-05": {
+      "status": "disputed",
+      "sources": ["ursc"],
+      "note": "The collection names the International Academy of Astronautics; URSC names the International Astronautical Federation. These are different bodies; neither an election year nor the exact affiliation is resolved here.",
+      "noteTa": "தொகுப்பும் யு.ஆர்.எஸ்.சி. குறிப்பும் வெவ்வேறு பன்னாட்டு விண்வெளி அமைப்புகளைக் குறிப்பிடுகின்றன. அமைப்பும் தேர்வு ஆண்டும் இங்கு உறுதிசெய்யப்படவில்லை.",
+      "changes": {}
+    },
+    "professional-06": {
+      "status": "collection",
+      "sources": [],
+      "note": "The award or election year is not established. This entry relies on the supplied collection.",
+      "noteTa": "விருது அல்லது உறுப்பினர் தேர்வு ஆண்டு உறுதியாகவில்லை. இப்பதிவு வழங்கப்பட்ட தொகுப்பைச் சார்ந்தது."
+    },
+    "professional-07": {
+      "status": "collection",
+      "sources": [],
+      "note": "The award or election year is not established. This entry relies on the supplied collection.",
+      "noteTa": "விருது அல்லது உறுப்பினர் தேர்வு ஆண்டு உறுதியாகவில்லை. இப்பதிவு வழங்கப்பட்ட தொகுப்பைச் சார்ந்தது."
+    },
+    "professional-08": {
+      "status": "partial",
+      "sources": ["isrs"],
+      "note": "The society confirms fellowship but explicitly leaves the election year blank.",
+      "noteTa": "கழகம் உறுப்பினர் அங்கீகாரத்தை உறுதிப்படுத்துகிறது; தேர்வு ஆண்டைத் தரவில்லை.",
+      "changes": {
+        "organization": "Indian Society of Remote Sensing (ISRS)"
+      }
+    },
+    "professional-09": {
+      "status": "partial",
+      "sources": ["ursc"],
+      "note": "URSC confirms the fellowship; the election year is not stated.",
+      "noteTa": "யு.ஆர்.எஸ்.சி. உறுப்பினர் அங்கீகாரத்தை உறுதிப்படுத்துகிறது; தேர்வு ஆண்டு தரப்படவில்லை.",
+      "changes": {}
+    },
+    "professional-10": {
+      "status": "collection",
+      "sources": [],
+      "note": "The award or election year is not established. This entry relies on the supplied collection.",
+      "noteTa": "விருது அல்லது உறுப்பினர் தேர்வு ஆண்டு உறுதியாகவில்லை. இப்பதிவு வழங்கப்பட்ட தொகுப்பைச் சார்ந்தது."
+    },
+    "professional-11": {
+      "status": "confirmed",
+      "sources": ["niqr"],
+      "note": "Contemporary reporting confirms the award in November 2009.",
+      "noteTa": "நவம்பர் 2009 செய்தி இவ்விருதை உறுதிப்படுத்துகிறது.",
+      "changes": {
+        "organization": "National Institution for Quality and Reliability (NIQR) / Bajaj"
+      }
+    },
+    "professional-12": {
+      "status": "confirmed",
+      "sources": ["firodia", "firodia-news"],
+      "note": "The award provider lists 2009, supported by contemporary reporting. This takes precedence over the 2007 date in the URSC biography.",
+      "noteTa": "விருது வழங்கிய அறக்கட்டளையும் அக்காலச் செய்தியும் 2009-ஐ உறுதிப்படுத்துகின்றன. யு.ஆர்.எஸ்.சி. குறிப்பின் 2007 ஆண்டுக்குப் பதிலாக இது பயன்படுத்தப்படுகிறது.",
+      "changes": {
+        "organization": "H. K. Firodia Memorial Foundation"
+      }
+    },
+    "professional-13": {
+      "status": "confirmed",
+      "sources": ["aif"],
+      "note": "AIF’s institutional profile explicitly records the IEI–IEEE Engineering Excellence Award in 2016.",
+      "noteTa": "அறக்கட்டளையின் நிறுவனக் குறிப்பு IEI–IEEE பொறியியல் மேன்மை விருதை 2016 எனத் தெளிவாகப் பதிவு செய்கிறது.",
+      "changes": {}
+    },
+    "professional-14": {
+      "status": "confirmed",
+      "sources": ["isrs"],
+      "note": "The award-provider register lists Annadurai under the Bhaskara Award for 2016.",
+      "noteTa": "விருது வழங்கும் கழகத்தின் பட்டியல் பாஸ்கரா விருதை 2016 என உறுதிப்படுத்துகிறது.",
+      "changes": {
+        "organization": "Indian Society of Remote Sensing (ISRS)"
+      }
+    },
+    "professional-15": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "professional-16": {
+      "status": "collection",
+      "sources": [],
+      "note": "“AISYWC-18” is an event label, not independently verified evidence of the award year.",
+      "noteTa": "AISYWC-18 என்பது நிகழ்வுப் பெயர்; விருது ஆண்டிற்கான தனி ஆதாரம் அல்ல.",
+      "changes": {}
+    },
+    "professional-17": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "professional-18": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "professional-19": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "professional-20": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "professional-21": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "professional-22": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "professional-23": {
+      "status": "disputed",
+      "sources": [],
+      "note": "No UCLA award-provider record was located. The collection’s 2024–2025 range is retained in the review record, not treated as two verified award years.",
+      "noteTa": "UCLA வழங்கிய விருதிற்கான நிறுவன ஆதாரம் கிடைக்கவில்லை. தொகுப்பின் 2024–2025 வரம்பு இரண்டு உறுதிப்படுத்தப்பட்ட விருது ஆண்டுகளாகக் கருதப்படவில்லை.",
+      "changes": {
+        "year": null,
+        "title": "Lifetime Achievement Award — attribution under review",
+        "description": "The supplied collection attributes this recognition to UCLA; the issuer and date require confirmation."
+      }
+    },
+    "professional-24": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-01": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "URSC explicitly dates the Vivekananda Human Excellence Award to 2014, supplying the previously missing year.",
+      "noteTa": "முன்பு விடுபட்ட ஆண்டை யு.ஆர்.எஸ்.சி. தெளிவாக 2014 எனத் தருகிறது.",
+      "changes": {
+        "year": "2014"
+      },
+      "tamilText": "மனித மேன்மைக்கான விவேகானந்தர் விருது — 2014, ராமகிருஷ்ண மிஷன்."
+    },
+    "social-02": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-03": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-04": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-05": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-06": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-07": {
+      "status": "collection",
+      "sources": [],
+      "note": "The supplied collection records a 2014 Global Thinkers listing. A first-place ranking is not substantiated and has been removed.",
+      "noteTa": "2014 சிந்தனையாளர் பட்டியல் தொகுப்பில் பதிவாகியுள்ளது. முதலிடம் பெற்றதாக ஆதாரம் இல்லாததால் அந்தக் கூற்று நீக்கப்பட்டுள்ளது.",
+      "changes": {
+        "description": "The supplied collection records inclusion in the 2014 Global Thinkers list; no numerical ranking is asserted."
+      },
+      "tamilText": "2014 உலகளாவிய சிந்தனையாளர்கள் பட்டியலில் இடம்பெற்றதாகத் தொகுப்பில் பதிவாகியுள்ளது; தரவரிசை உறுதிப்படுத்தப்படவில்லை."
+    },
+    "social-08": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-09": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-10": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "social-11": {
+      "status": "collection",
+      "sources": [],
+      "note": "The award or election year is not established. This entry relies on the supplied collection.",
+      "noteTa": "விருது அல்லது உறுப்பினர் தேர்வு ஆண்டு உறுதியாகவில்லை. இப்பதிவு வழங்கப்பட்ட தொகுப்பைச் சார்ந்தது."
+    },
+    "social-12": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "The employer biography records this recognition and year; ceremony dates are not supplied.",
+      "noteTa": "நிறுவன வாழ்க்கைக் குறிப்பு இவ்வங்கீகாரத்தையும் ஆண்டையும் உறுதிப்படுத்துகிறது; விழா நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "social-13": {
+      "status": "confirmed",
+      "sources": ["poorna"],
+      "note": "The Hindu’s 18 November 2008 report confirms the award; the event is described as having taken place on Monday. Only the supported year is used here.",
+      "noteTa": "18 நவம்பர் 2008 தி இந்து செய்தி விருதை உறுதிப்படுத்துகிறது; உறுதியான ஆண்டு மட்டும் இங்கு பயன்படுத்தப்படுகிறது.",
+      "changes": {
+        "year": "2008",
+        "organization": "Rotary Clubs of Coimbatore and Government College of Technology"
+      },
+      "tamilText": "பூர்ண சந்திரா விருது — 2008, கோயம்புத்தூர் ரோட்டரி சங்கங்களும் அரசு தொழில்நுட்பக் கல்லூரியும்."
+    },
+    "social-14": {
+      "status": "collection",
+      "sources": [],
+      "note": "The award or election year is not established. This entry relies on the supplied collection.",
+      "noteTa": "விருது அல்லது உறுப்பினர் தேர்வு ஆண்டு உறுதியாகவில்லை. இப்பதிவு வழங்கப்பட்ட தொகுப்பைச் சார்ந்தது."
+    },
+    "social-15": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-16": {
+      "status": "collection",
+      "sources": [],
+      "note": "The award or election year is not established. This entry relies on the supplied collection.",
+      "noteTa": "விருது அல்லது உறுப்பினர் தேர்வு ஆண்டு உறுதியாகவில்லை. இப்பதிவு வழங்கப்பட்ட தொகுப்பைச் சார்ந்தது."
+    },
+    "social-17": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-18": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-19": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-20": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-21": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-22": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-23": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-24": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-25": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-26": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-27": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-28": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "social-29": {
+      "status": "confirmed",
+      "sources": ["weekend-leader-lifetime"],
+      "note": "The Hindu reported the award on 10 March 2024. This is one recognition recorded in two collection categories.",
+      "noteTa": "10 மார்ச் 2024 தி இந்து செய்தி இவ்விருதை உறுதிப்படுத்துகிறது. ஒரே விருது தொகுப்பின் இரு பிரிவுகளில் உள்ளது.",
+      "changes": {}
+    },
+    "social-30": {
+      "status": "disputed",
+      "sources": [],
+      "note": "The Tamil collection gives 24 May 2024 and the English collection 25 May 2024. The exact day is not independently confirmed; neither date is presented as settled.",
+      "noteTa": "தமிழ்த் தொகுப்பில் 24 மே 2024; ஆங்கிலத் தொகுப்பில் 25 மே 2024. தனி ஆதாரம் இல்லாததால் எந்த நாளும் உறுதியானதாகக் காட்டப்படவில்லை.",
+      "changes": {
+        "date": null,
+        "description": "Recognition attributed to Shree Hariharaputra Bhajan Samaj, Mumbai, in May 2024; the exact day is disputed."
+      },
+      "tamilText": "சிறந்த ஆளுமை விருது — மே 2024, ஸ்ரீ ஹரிஹரபுத்ர பஜன் சமாஜ், மும்பை. சரியான நாள் உறுதியாகவில்லை."
+    },
+    "social-31": {
+      "status": "collection",
+      "sources": [],
+      "note": "Year and attribution follow the supplied collection; independent confirmation is pending.",
+      "noteTa": "ஆண்டும் விவரங்களும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தனி ஆதார உறுதிப்படுத்தல் நிலுவையில் உள்ளது."
+    },
+    "chronicle-01": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-02": {
+      "status": "partial",
+      "sources": ["ursc"],
+      "note": "URSC supports the education or role; the full period shown follows the supplied collection.",
+      "noteTa": "கல்வி அல்லது பணிப் பொறுப்பை யு.ஆர்.எஸ்.சி. உறுதிப்படுத்துகிறது; முழுக் காலவரம்பு வழங்கப்பட்ட தொகுப்பிலிருந்து.",
+      "changes": {}
+    },
+    "chronicle-03": {
+      "status": "partial",
+      "sources": ["ursc"],
+      "note": "URSC supports the education or role; the full period shown follows the supplied collection.",
+      "noteTa": "கல்வி அல்லது பணிப் பொறுப்பை யு.ஆர்.எஸ்.சி. உறுதிப்படுத்துகிறது; முழுக் காலவரம்பு வழங்கப்பட்ட தொகுப்பிலிருந்து.",
+      "changes": {}
+    },
+    "chronicle-04": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "URSC confirms joining ISRO in 1982.",
+      "noteTa": "1982-இல் இஸ்ரோவில் சேர்ந்ததை யு.ஆர்.எஸ்.சி. உறுதிப்படுத்துகிறது.",
+      "changes": {}
+    },
+    "chronicle-05": {
+      "status": "partial",
+      "sources": ["ursc"],
+      "note": "URSC supports the education or role; the full period shown follows the supplied collection.",
+      "noteTa": "கல்வி அல்லது பணிப் பொறுப்பை யு.ஆர்.எஸ்.சி. உறுதிப்படுத்துகிறது; முழுக் காலவரம்பு வழங்கப்பட்ட தொகுப்பிலிருந்து.",
+      "changes": {}
+    },
+    "chronicle-06": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-07": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-08": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-09": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-10": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-11": {
+      "status": "partial",
+      "sources": ["insat-3b"],
+      "note": "The Tamil designation is corrected from INSAT-3P to INSAT-3B, consistent with the English collection and ISRO’s mission record. The personal tenure remains unconfirmed.",
+      "noteTa": "ஆங்கிலத் தொகுப்பு மற்றும் இஸ்ரோ திட்டப் பதிவின்படி இன்சாட்-3P என்பது இன்சாட்-3B எனத் திருத்தப்பட்டுள்ளது. தனிப்பட்ட பதவிக்காலம் உறுதியாகவில்லை.",
+      "changes": {
+        "tamil": "பணி இயக்குனர், இன்சாட்-3B",
+        "note": null
+      }
+    },
+    "chronicle-12": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-13": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-14": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-15": {
+      "status": "partial",
+      "sources": ["ursc"],
+      "note": "URSC supports the education or role; the full period shown follows the supplied collection.",
+      "noteTa": "கல்வி அல்லது பணிப் பொறுப்பை யு.ஆர்.எஸ்.சி. உறுதிப்படுத்துகிறது; முழுக் காலவரம்பு வழங்கப்பட்ட தொகுப்பிலிருந்து.",
+      "changes": {}
+    },
+    "chronicle-16": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-17": {
+      "status": "partial",
+      "sources": ["ursc"],
+      "note": "URSC supports the education or role; the full period shown follows the supplied collection.",
+      "noteTa": "கல்வி அல்லது பணிப் பொறுப்பை யு.ஆர்.எஸ்.சி. உறுதிப்படுத்துகிறது; முழுக் காலவரம்பு வழங்கப்பட்ட தொகுப்பிலிருந்து.",
+      "changes": {}
+    },
+    "chronicle-18": {
+      "status": "confirmed",
+      "sources": ["ursc"],
+      "note": "Exact directorship: 1 April 2015–31 July 2018, according to the employer’s register.",
+      "noteTa": "நிறுவனப் பதிவின்படி இயக்குநர் பதவிக்காலம்: 1 ஏப்ரல் 2015–31 ஜூலை 2018.",
+      "changes": {}
+    },
+    "chronicle-19": {
+      "status": "disputed",
+      "sources": ["aif"],
+      "note": "The collection ends the council vice-presidency in 2023, while AIF’s profile gives 2019–2022. The end date remains unresolved.",
+      "noteTa": "தொகுப்பில் 2023 வரையும் அறக்கட்டளைக் குறிப்பில் 2019–2022 என்றும் உள்ளது. நிறைவுத் தேதி உறுதியாகவில்லை.",
+      "changes": {
+        "year": "2019 · end unconfirmed",
+        "tamilYear": "2019 · நிறைவு உறுதியாகவில்லை",
+        "openEnded": false
+      }
+    },
+    "chronicle-20": {
+      "status": "confirmed",
+      "sources": ["ndrf"],
+      "note": "Corrected to 18 February 2019–7 March 2022 using NDRF’s own register; the original collection gave 2019–2023.",
+      "noteTa": "மன்றத்தின் சொந்தப் பதிவின்படி 18 பிப்ரவரி 2019–7 மார்ச் 2022 எனத் திருத்தப்பட்டது; மூலத் தொகுப்பில் 2019–2023.",
+      "changes": {
+        "year": "2019–2022",
+        "tamilYear": "2019–2022",
+        "title": "Chairman, Board of Governors, National Design and Research Forum",
+        "tamil": "தேசிய வடிவமைப்பு மற்றும் ஆராய்ச்சி மன்றத்தின் ஆளுநர் குழுத் தலைவர்",
+        "note": null
+      }
+    },
+    "chronicle-21": {
+      "status": "partial",
+      "sources": ["aif"],
+      "note": "AIF names the advisory connection, but does not establish the period or the exact title shown in the collection.",
+      "noteTa": "அறக்கட்டளை ஆலோசனைத் தொடர்பைக் குறிப்பிடுகிறது; தொகுப்பில் உள்ள பதவிப் பெயரையும் காலவரம்பையும் உறுதிப்படுத்தவில்லை.",
+      "changes": {}
+    },
+    "chronicle-22": {
+      "status": "partial",
+      "sources": ["aif"],
+      "note": "AIF names the advisory connection, but does not establish the period or the exact title shown in the collection.",
+      "noteTa": "அறக்கட்டளை ஆலோசனைத் தொடர்பைக் குறிப்பிடுகிறது; தொகுப்பில் உள்ள பதவிப் பெயரையும் காலவரம்பையும் உறுதிப்படுத்தவில்லை.",
+      "changes": {}
+    },
+    "chronicle-23": {
+      "status": "partial",
+      "sources": ["aif"],
+      "note": "AIF names the advisory connection, but does not establish the period or the exact title shown in the collection.",
+      "noteTa": "அறக்கட்டளை ஆலோசனைத் தொடர்பைக் குறிப்பிடுகிறது; தொகுப்பில் உள்ள பதவிப் பெயரையும் காலவரம்பையும் உறுதிப்படுத்தவில்லை.",
+      "changes": {}
+    },
+    "chronicle-24": {
+      "status": "partial",
+      "sources": ["spacezone"],
+      "note": "Space Zone India credits his mission guidance; the advisory title and 2022 start date remain collection-only.",
+      "noteTa": "நிறுவனம் திட்ட வழிகாட்டலைக் குறிப்பிடுகிறது; ஆலோசகர் பதவியும் 2022 தொடக்க ஆண்டும் தொகுப்பை மட்டும் சார்ந்தவை.",
+      "changes": {}
+    },
+    "chronicle-25": {
+      "status": "partial",
+      "sources": ["aif-people", "aif"],
+      "note": "AIF lists Annadurai among its people; no appointment date is given.",
+      "noteTa": "அறக்கட்டளை அண்ணாதுரையைத் தனது பட்டியலில் குறிப்பிடுகிறது; நியமன நாள் தரப்படவில்லை.",
+      "changes": {}
+    },
+    "chronicle-26": {
+      "status": "partial",
+      "sources": ["ssi"],
+      "note": "The company confirms board membership; the 2023 start date and distinction between the two entities are not established by this page.",
+      "noteTa": "நிறுவனம் நிர்வாக உறுப்பினர் பதவியை உறுதிப்படுத்துகிறது; 2023 தொடக்க ஆண்டையும் இரு நிறுவனங்களின் வேறுபாட்டையும் இப்பக்கம் உறுதிப்படுத்தவில்லை.",
+      "changes": {}
+    },
+    "chronicle-27": {
+      "status": "partial",
+      "sources": ["ssi"],
+      "note": "The company confirms board membership; the 2023 start date and distinction between the two entities are not established by this page.",
+      "noteTa": "நிறுவனம் நிர்வாக உறுப்பினர் பதவியை உறுதிப்படுத்துகிறது; 2023 தொடக்க ஆண்டையும் இரு நிறுவனங்களின் வேறுபாட்டையும் இப்பக்கம் உறுதிப்படுத்தவில்லை.",
+      "changes": {}
+    },
+    "chronicle-28": {
+      "status": "disputed",
+      "sources": [],
+      "note": "English gives 2023–2026; Tamil gives 2024 onwards. Neither the start nor end has been independently settled.",
+      "noteTa": "ஆங்கிலத்தில் 2023–2026; தமிழில் 2024 முதல். தொடக்கமும் நிறைவும் தனி ஆதாரத்துடன் உறுதிசெய்யப்படவில்லை.",
+      "changes": {
+        "year": "Dates unresolved",
+        "tamilYear": "தேதிகள் உறுதியாகவில்லை",
+        "openEnded": false,
+        "note": null
+      }
+    },
+    "chronicle-29": {
+      "status": "partial",
+      "sources": ["aif"],
+      "note": "AIF supports a Senior Citizens Forum advisory connection, but not the Executive President title or its start date.",
+      "noteTa": "மூத்த குடிமக்கள் அமைப்புடன் ஆலோசனைத் தொடர்பை அறக்கட்டளை குறிப்பிடுகிறது; செயல் தலைவர் பதவியையோ தொடக்க ஆண்டையோ உறுதிப்படுத்தவில்லை.",
+      "changes": {}
+    },
+    "chronicle-30": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-31": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-32": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-33": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-34": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-35": {
+      "status": "collection",
+      "sources": [],
+      "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
+      "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
+      "changes": {}
+    },
+    "chronicle-36": {
+      "status": "confirmed",
+      "sources": ["kaynes", "kaynes-board"],
+      "note": "Appointed effective 13 May 2026 as Additional Non-Executive Independent Director. The proposed five-year term was subject to shareholder approval; it is not shown as a completed tenure.",
+      "noteTa": "13 மே 2026 முதல் கூடுதல் நிர்வாகமற்ற சுயாதீன இயக்குநராக நியமனம். ஐந்தாண்டுக் காலம் பங்குதாரர் ஒப்புதலுக்கு உட்பட்டது; நிறைவடைந்த காலமாகக் காட்டப்படவில்லை.",
+      "changes": {
+        "title": "Additional Non-Executive Independent Director, Kaynes Technology India Limited",
+        "tamil": "கெய்ன்ஸ் டெக்னாலஜி இந்தியா நிறுவனத்தின் கூடுதல் நிர்வாகமற்ற சுயாதீன இயக்குநர்"
+      }
+    },
+    "chronicle-37": {
+      "status": "confirmed",
+      "sources": ["curriculum"],
+      "note": "The appointment was reported on 29 June 2026. The report does not specify the effective day or an end date.",
+      "noteTa": "நியமனம் 29 ஜூன் 2026 அன்று செய்தியாக வெளியானது. நடைமுறைக்கு வந்த நாளும் நிறைவுத் தேதியும் குறிப்பிடப்படவில்லை.",
+      "changes": {}
+    }
+  }
+}

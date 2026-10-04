@@ -1,0 +1,236 @@
+@font-face {
+  font-family: 'Books Tamil';
+  src: url('fonts/noto-serif-tamil.woff2') format('woff2');
+  font-display: swap;
+}
+.books-section {
+  margin-block: 100px;
+  padding-block: 60px;
+  border-block: 1px solid #b7bdb2;
+}
+.archive-book-shelf {
+  grid-column: 1 / -1;
+  min-width: 0;
+  margin-block: 32px;
+}
+.books-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 32px;
+  margin-bottom: 48px;
+}
+.books-heading h2 {
+  margin: 12px 0 0;
+  font-size: clamp(30px, 3.5vw, 52px);
+  line-height: 1.2;
+}
+.books-heading > p {
+  max-width: 360px;
+  line-height: 1.8;
+}
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 48px 32px;
+}
+.book-card {
+  min-width: 0;
+}
+.book-cover {
+  background: #e5e7de;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 340px;
+  padding: 28px;
+  border-bottom: 4px solid #bec5b6;
+}
+.book-cover img {
+  display: block;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  max-height: 280px;
+  object-fit: contain;
+  box-shadow: 8px 12px 18px #18291f20;
+  transition: transform 200ms ease;
+}
+.book-cover:hover img {
+  transform: translateY(-4px);
+}
+.book-copy {
+  padding-top: 24px;
+}
+.book-theme {
+  display: block;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.book-copy h3,
+.books-pending h4 {
+  font-family: 'Books Tamil', serif;
+  font-size: 22px;
+  line-height: 1.65;
+  margin: 0 0 6px;
+}
+.book-copy p {
+  font-size: 14px;
+  line-height: 1.8;
+  margin: 12px 0;
+}
+.book-copy .book-transliteration,
+.book-transliteration {
+  font-size: 14px;
+  opacity: 0.8;
+}
+.book-copy .book-edition {
+  font-size: 12px;
+  margin-top: 22px;
+}
+.book-collaborator {
+  font-weight: 600;
+}
+.book-details {
+  border-top: 1px solid #b7bdb2;
+  margin-top: 22px;
+  padding-top: 16px;
+  font-size: 12px;
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+}
+.book-details summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.book-details p {
+  font-size: 12px;
+}
+.book-details ul {
+  padding-left: 20px;
+  margin: 12px 0;
+}
+.book-details a,
+.book-link,
+.books-note a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.book-link {
+  display: inline-block;
+  margin-top: 18px;
+  font-size: 13px;
+}
+.books-further {
+  margin-top: 60px;
+  padding-top: 32px;
+  border-top: 1px solid #b7bdb2;
+}
+.books-further > h3 {
+  font-size: 24px;
+}
+.books-further > p {
+  font-size: 14px;
+  line-height: 1.8;
+  max-width: 950px;
+}
+.books-pending {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 32px;
+  margin-block: 30px;
+}
+.books-pending article {
+  border-left: 2px solid #657763;
+  padding-left: 20px;
+}
+.books-pending p {
+  font-size: 13px;
+  line-height: 1.8;
+}
+.books-further p.books-note {
+  font-size: 12px;
+}
+[lang='ta'] .books-section {
+  border-color: #d6c9b5;
+}
+[lang='ta'] .book-cover {
+  background: #eee6d6;
+  border-color: #d6c9b5;
+}
+[lang='ta'] .book-theme {
+  letter-spacing: 0;
+  line-height: 1.8;
+}
+.honours-update {
+  padding: 14px 20px;
+  border: 1px solid #657763;
+  background: #e5e7de;
+  font-size: 14px;
+}
+.honours-update a {
+  text-decoration: underline;
+}
+.wiki-career {
+  border-block: 1px solid #b7bdb2;
+  padding-block: 20px;
+  margin-block: 30px;
+  font-size: 14px;
+  line-height: 1.8;
+}
+.wiki-career summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.wiki-career ul {
+  padding-left: 22px;
+}
+.wiki-career a,
+.science-outreach a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.science-outreach {
+  margin-block: 60px;
+}
+.science-outreach h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.science-outreach p {
+  max-width: 850px;
+  line-height: 1.9;
+}
+@media (max-width: 800px) {
+  .books-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .books-heading {
+    align-items: start;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .books-section {
+    margin-block: 60px;
+    padding-block: 40px;
+  }
+}
+@media (max-width: 520px) {
+  .books-grid,
+  .books-pending {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .book-cover {
+    height: 330px;
+  }
+  .books-heading {
+    margin-bottom: 32px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .book-cover img {
+    transition: none;
+  }
+}

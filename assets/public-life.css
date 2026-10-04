@@ -1,0 +1,113 @@
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-block: 24px;
+  font-size: 14px;
+}
+.profile-links > span {
+  flex-basis: 100%;
+  font-size: 12px;
+}
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+  padding: 10px 14px;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  color: inherit;
+  font-size: 14px;
+  line-height: 1.4;
+  text-decoration: none;
+}
+.social-link:hover {
+  background: #80808018;
+}
+.social-link:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+.social-link .profile-icon {
+  width: 24px;
+  height: 24px;
+  flex: 0 0 24px;
+}
+.social-arrow {
+  font-size: 13px;
+}
+.public-life {
+  padding-block: 64px;
+  scroll-margin-top: 100px;
+}
+.public-life-heading {
+  max-width: 760px;
+  margin-bottom: 32px;
+}
+.public-life-heading h2 {
+  font-size: clamp(28px, 3.5vw, 46px);
+  margin-block: 12px 18px;
+}
+.coverage-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 32px;
+}
+.coverage-card {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  border-top: 2px solid currentColor;
+  padding-top: 20px;
+}
+.coverage-kind {
+  font-size: 12px;
+  letter-spacing: 0.06em;
+}
+.coverage-card h3 {
+  font-size: 24px;
+  line-height: 1.35;
+  margin-block: 14px;
+}
+.coverage-card > p {
+  font-size: 15px;
+  line-height: 1.8;
+  margin-bottom: 24px;
+}
+.coverage-source {
+  margin-top: auto;
+  font-size: 13px;
+  line-height: 1.7;
+}
+.coverage-source p {
+  margin-block: 0 8px;
+}
+.coverage-source a,
+.coverage-more {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  overflow-wrap: anywhere;
+}
+.coverage-more {
+  display: inline-block;
+  margin-top: 30px;
+}
+html[lang='ta'] .coverage-card h3 {
+  font-size: 21px;
+  line-height: 1.7;
+}
+@media (max-width: 1000px) {
+  .coverage-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 600px) {
+  .coverage-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .public-life {
+    padding-block: 40px;
+  }
+}

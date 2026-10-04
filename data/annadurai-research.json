@@ -1,0 +1,40 @@
+{
+  "checkedOn": "2026-10-02",
+  "sources": [
+    {
+      "id": "banana-fibre",
+      "url": "https://www.edexlive.com/campus/2021/jan/23/iitdm-develops-integrated-machine-that-can-process-banana-stem-to-make-fibre-yarn-17529.html",
+      "publisher": "EdexLive / IANS",
+      "publishedDate": "2021-01-23",
+      "title": "IIITDM develops integrated machine that can process banana stem to make fibre yarn",
+      "finding": "Annadurai spearheaded an industry–institute initiative in which IIITDM faculty and students developed a banana pseudo-stem processing machine; Gencrest planned an associated pilot plant.",
+      "scope": "Contemporary reporting of development and plans, not evidence of later commercial performance."
+    },
+    {
+      "id": "ndrf-register",
+      "url": "https://www.ndrf.res.in/chairmen.html",
+      "publisher": "National Design and Research Forum",
+      "title": "Chairmen of NDRF",
+      "finding": "The past-chairmen register lists Dr. M. Annadurai from 18 February 2019 to 7 March 2022.",
+      "scope": "The institutional register’s dates and organization name are used in both editions; the original collection remains preserved."
+    },
+    {
+      "id": "nasa-chandrayaan",
+      "url": "https://science.nasa.gov/mission/chandrayaan-1/",
+      "publisher": "NASA Science",
+      "title": "Chandrayaan-1 / Moon Impact Probe",
+      "finding": "The mission combined Indian instruments with scientific equipment from the United States, the United Kingdom, Germany, Sweden and Bulgaria; NASA’s M3 helped confirm water locked in lunar minerals.",
+      "scope": "Mission context and shared scientific contribution, not a claim of sole discovery by Annadurai."
+    }
+  ],
+  "rejectedClaims": [
+    {
+      "source": "https://patents.google.com/patent/US7185858B2/en",
+      "reason": "The listed inventors are Hangching Grant Wang and Rongsheng K Li, with Boeing as original assignee. Annadurai’s work is cited, but he is not listed as an inventor. No patent ownership or inventorship claim was added."
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=VcjrlTcBcqE",
+      "reason": "The description calls Annadurai a former ISRO chairman. This contradicts the documented satellite-centre directorship and was not adopted."
+    }
+  ]
+}

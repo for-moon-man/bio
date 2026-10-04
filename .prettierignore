@@ -1,0 +1,13 @@
+node_modules/
+.work/
+dist/
+test-results/
+playwright-report/
+package-lock.json
+/*.html
+assets/lucide.js
+assets/licenses/
+assets/fonts/
+LICENSE
+content/english.md
+content/tamil.md
