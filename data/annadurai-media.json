@@ -70,7 +70,7 @@
     {
       "id": "media",
       "title": "In Media",
-      "description": "Reporting and interviews from external publishers add context to Dr. Annadurai’s work. Each item links to its original publication.",
+      "description": "Reporting and interviews from external publishers add context to the work featured here. Each item links to its original publication.",
       "source": "Biographical collection, 30 September 2026"
     },
     {
@@ -82,7 +82,7 @@
     {
       "id": "about",
       "title": "Videos by others on Dr. Mylswamy",
-      "description": "A biographical film exploring Dr. Annadurai’s life and work.",
+      "description": "A biographical film exploring a life in science.",
       "source": "Biographical collection, 30 September 2026"
     }
   ],
@@ -111,7 +111,7 @@
       "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpLSUgxm4eK0&format=json",
       "verifiedOn": "2026-10-03",
       "kind": "profile",
-      "description": "A biographical film published on Dr. Annadurai’s channel on 3 August 2018.",
+      "description": "A biographical film published on the YouTube channel on 3 August 2018.",
       "edition": "en",
       "publishedAt": "2018-08-03T04:12:40-07:00",
       "durationSeconds": 1037,
@@ -120,7 +120,7 @@
       "playerStatus": "OK",
       "embedAvailable": true,
       "summaryBasis": "Original publisher title and publication metadata; not a complete transcript review.",
-      "selectionReason": "A recording from the subject or an institutional publisher documenting his work and public conversation."
+      "selectionReason": "A recording from the subject or an institutional publisher documenting the work and public conversation."
     },
     {
       "id": "K0hIB18WuM0",
@@ -143,7 +143,7 @@
       "embedAvailable": true,
       "eventDate": "2019-07-12T04:34:13+00:00",
       "summaryBasis": "Original publisher title and publication metadata; not a complete transcript review.",
-      "selectionReason": "A recording from the subject or an institutional publisher documenting his work and public conversation."
+      "selectionReason": "A recording from the subject or an institutional publisher documenting the work and public conversation."
     },
     {
       "id": "7o2L1_wPYAE",
@@ -198,7 +198,7 @@
       "title": "Future of Space Technology in India | Mylswamy Annadurai | TEDxMarwadiUniversity",
       "editorialTitle": "Future of Space Technology in India",
       "kind": "talk",
-      "description": "At TEDxMarwadiUniversity, Dr. Annadurai discusses collaboration between ISRO and private industry, and the connections between space technology and society.",
+      "description": "A TEDxMarwadiUniversity talk on collaboration between ISRO and private industry, and the connections between space technology and society.",
       "selectionReason": "A later TEDx perspective on industry collaboration.",
       "url": "https://www.youtube.com/watch?v=C26gyxKRMtY",
       "source": "https://www.youtube.com/watch?v=C26gyxKRMtY",
@@ -222,7 +222,7 @@
       "title": "நாசாவே வாயடைத்து போன மாஸ் சம்பவம் | Struggles of Indian Scientist | Mylswamy Annadurai ISRO | Mr.GK",
       "editorialTitle": "An engineer’s journey — with Mr. GK",
       "kind": "interview",
-      "description": "A long-form conversation with Dr. Annadurai, published by the Tamil science channel Mr. GK under the title “Struggles of Indian Scientist”.",
+      "description": "A long-form conversation published by the Tamil science channel Mr. GK under the title “Struggles of Indian Scientist”.",
       "selectionReason": "Substantial recorded audience and a format that gives the guest time to speak.",
       "url": "https://www.youtube.com/watch?v=6bFEo12lDUI",
       "source": "https://www.youtube.com/watch?v=6bFEo12lDUI",
@@ -246,7 +246,7 @@
       "title": "How 🇮🇳 Found💧On 🌕?| ISRO Scientist | Madan Gowri Podcast x Mylswamy Annadurai x Anand Megalingam",
       "editorialTitle": "The Moon, Mars and space education — with Madan Gowri",
       "kind": "interview",
-      "description": "Dr. Annadurai and Space Zone India’s Anand Megalingam join Madan Gowri to discuss lunar water, Mars, private space activity and learning in one’s mother tongue.",
+      "description": "A conversation with Madan Gowri and Space Zone India’s Anand Megalingam on lunar water, Mars, private space activity and learning in one’s mother tongue.",
       "selectionReason": "Substantial recorded audience, with publisher-supplied chapter links.",
       "url": "https://www.youtube.com/watch?v=VcjrlTcBcqE",
       "source": "https://www.youtube.com/watch?v=VcjrlTcBcqE",
@@ -261,7 +261,7 @@
       "summaryBasis": "Publisher title and description; not a full transcript or independent fact-check of statements in the video.",
       "status": "Publisher identity, publication timestamp, duration and player metadata checked on 3 October 2026. Full playback was not reviewed.",
       "officialArchiveMembership": "Not established; independently discovered addition.",
-      "sourceNote": "The publisher description incorrectly calls him a former ISRO chairman. His documented role was director of the ISRO Satellite Centre; the incorrect title is not used in this biography.",
+      "sourceNote": "The publisher description incorrectly uses the title of former ISRO chairman. The documented role was director of the ISRO Satellite Centre; the incorrect title is not used in this biography.",
       "chapters": [
         {
           "seconds": 90,
@@ -338,7 +338,7 @@
       "title": "Amalthea '20 Webinar 5: Dr. Mylswamy Annadurai",
       "editorialTitle": "Amalthea webinar — IIT Gandhinagar",
       "kind": "talk",
-      "description": "A webinar featuring Dr. Annadurai, published by Amalthea IIT Gandhinagar as part of its Amalthea ’20 series.",
+      "description": "A webinar published by Amalthea IIT Gandhinagar as part of its Amalthea ’20 series.",
       "selectionReason": "A university-festival recording; its upload date is recorded separately from the series title.",
       "url": "https://www.youtube.com/watch?v=nElss3iRpB0",
       "source": "https://www.youtube.com/watch?v=nElss3iRpB0",
@@ -366,7 +366,7 @@
       "publisher": "EdexLive / IANS",
       "publishedDate": "2021-01-23",
       "url": "https://www.edexlive.com/campus/2021/jan/23/iitdm-develops-integrated-machine-that-can-process-banana-stem-to-make-fibre-yarn-17529.html",
-      "description": "Reporting on an initiative spearheaded by Annadurai, involving IIITDM researchers and students and industry partner Gencrest.",
+      "description": "Reporting on leadership of an initiative, involving IIITDM researchers and students and industry partner Gencrest.",
       "verifiedOn": "2026-10-02"
     }
   ]

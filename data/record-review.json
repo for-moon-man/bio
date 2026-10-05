@@ -691,7 +691,9 @@
       "sources": [],
       "note": "The role and period follow the supplied collection; independent confirmation of these dates is pending.",
       "noteTa": "பொறுப்பும் காலமும் வழங்கப்பட்ட தொகுப்பிலிருந்து; தேதிகளுக்கான தனி ஆதாரம் நிலுவையில் உள்ளது.",
-      "changes": {}
+      "changes": {
+        "title": "Completed schooling in Kodhawady"
+      }
     },
     "chronicle-02": {
       "status": "partial",
