@@ -20,10 +20,19 @@ try {
   const page = await context.newPage();
   const errors = [];
   page.on('pageerror', (error) => errors.push(error.message));
+  page.on('response', (response) => {
+    if (response.url().startsWith(base) && response.status() >= 400)
+      errors.push(`${response.status()} ${response.url()}`);
+  });
   for (const width of [1440, 1024, 768, 390, 320]) {
     await page.setViewportSize({ width, height: 1000 });
     for (const file of pageFiles) {
       await page.goto(base + file);
+      // Exercise every local image, including images below the fold and in details.
+      await page.locator('img[src]').evaluateAll(async (images) => {
+        for (const image of images) image.loading = 'eager';
+        await Promise.all(images.map((image) => image.decode()));
+      });
       assert.ok(
         await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1),
         `${file} overflows at ${width}px`,
@@ -40,6 +49,15 @@ try {
         file,
       );
       assert.ok(await page.locator('footer .site-legal').count(), `${file}: copyright notice`);
+      if ([1440, 390].includes(width)) {
+        await page.locator('.reveal').evaluateAll((elements) => {
+          elements.forEach((element) => element.classList.add('in-view'));
+        });
+        await page.screenshot({
+          path: join(captures, `${file}-${width}-full.png`),
+          fullPage: true,
+        });
+      }
       if (['index.html', 'tamil.html'].includes(file) && [1440, 320].includes(width)) {
         await page.screenshot({ path: join(captures, `${file}-${width}.png`) });
         const frame = page.locator('#upcoming-events iframe');
@@ -54,6 +72,15 @@ try {
     }
   }
   console.log('All seven pages fit 320–1440 px; images and calendar configuration passed.');
+
+  for (const file of ['biography.html', 'gallery.html', 'tamil.html']) {
+    await page.goto(base + file);
+    const collage = page.locator('.vintage-photo img').first();
+    await collage.scrollIntoViewIfNeeded();
+    const size = await collage.boundingBox();
+    assert.ok(Math.abs(size.width / size.height - 2.5) < 0.02, `${file}: uncropped collage`);
+    await collage.screenshot({ path: join(captures, `${file}-collage.png`) });
+  }
 
   for (const file of ['biography.html', 'tamil.html', 'gallery.html']) {
     await page.goto(base + file + (file === 'gallery.html' ? '#archive-books' : '#books'));
@@ -79,7 +106,7 @@ try {
       await page.selectOption('#gallery-category', 'photos');
       assert.equal(await page.locator('#archive-books').isVisible(), false);
       await page.selectOption('#gallery-category', 'all');
-      assert.equal(await page.locator('[data-collection]:not([hidden])').count(), 14);
+      assert.equal(await page.locator('[data-collection]:not([hidden])').count(), 9);
     }
   }
 

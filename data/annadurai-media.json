@@ -4,7 +4,7 @@
     {
       "id": "photos",
       "title": "Photos",
-      "description": "The general photographic collection. The numbered album files are retained without assigning people, places or dates.",
+      "description": "Portraits, personal memories and moments from a life in science.",
       "source": "Biographical collection, 30 September 2026"
     },
     {
@@ -16,19 +16,19 @@
     {
       "id": "leaders",
       "title": "With Leaders",
-      "description": "The biographical archive names this collection. No individually captioned photograph or category URL is preserved in the supplied snapshot.",
+      "description": "A moment of national recognition at Rashtrapati Bhavan.",
       "source": "Biographical collection, 30 September 2026"
     },
     {
       "id": "work",
       "title": "Work Related",
-      "description": "Image records preserved in the source’s ISRO folder. Folder labels describe their archival grouping, not a verified setting for every photograph.",
+      "description": "Spacecraft and missions from India’s space programme.",
       "source": "Biographical collection, 30 September 2026"
     },
     {
       "id": "public",
       "title": "Public Function",
-      "description": "A source image record from the public-functions collection. No event date or participant identities have been established.",
+      "description": "Bringing space science into public conversation.",
       "source": "Biographical collection, 30 September 2026"
     },
     {
@@ -82,7 +82,7 @@
     {
       "id": "about",
       "title": "Videos by others on Dr. Mylswamy",
-      "description": "The existing biographical film remains available in the selected recordings. The original source’s separate third-party-video collection has not been reconstructed.",
+      "description": "A biographical film exploring Dr. Annadurai’s life and work.",
       "source": "Biographical collection, 30 September 2026"
     }
   ],

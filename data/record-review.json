@@ -198,7 +198,7 @@
       "noteTa": "தொகுப்பில் உள்ள மாநாட்டு எண் விருதின் ஆண்டை உறுதிப்படுத்தாது; மாநாட்டுப் பதிப்பும் உறுதியாகவில்லை.",
       "changes": {
         "organization": "Madurai Kamaraj University Endowment",
-        "description": "The award year and associated congress edition require confirmation."
+        "description": null
       }
     },
     "academia-06": {
@@ -422,7 +422,9 @@
       "sources": [],
       "note": "“AISYWC-18” is an event label, not independently verified evidence of the award year.",
       "noteTa": "AISYWC-18 என்பது நிகழ்வுப் பெயர்; விருது ஆண்டிற்கான தனி ஆதாரம் அல்ல.",
-      "changes": {}
+      "changes": {
+        "description": null
+      }
     },
     "professional-17": {
       "status": "collection",
@@ -468,7 +470,7 @@
       "changes": {
         "year": null,
         "title": "Lifetime Achievement Award — attribution under review",
-        "description": "The supplied collection attributes this recognition to UCLA; the issuer and date require confirmation."
+        "description": null
       }
     },
     "professional-24": {
@@ -523,9 +525,9 @@
       "note": "The supplied collection records a 2014 Global Thinkers listing. A first-place ranking is not substantiated and has been removed.",
       "noteTa": "2014 சிந்தனையாளர் பட்டியல் தொகுப்பில் பதிவாகியுள்ளது. முதலிடம் பெற்றதாக ஆதாரம் இல்லாததால் அந்தக் கூற்று நீக்கப்பட்டுள்ளது.",
       "changes": {
-        "description": "The supplied collection records inclusion in the 2014 Global Thinkers list; no numerical ranking is asserted."
+        "description": "Included in the 2014 Global Thinkers list."
       },
-      "tamilText": "2014 உலகளாவிய சிந்தனையாளர்கள் பட்டியலில் இடம்பெற்றதாகத் தொகுப்பில் பதிவாகியுள்ளது; தரவரிசை உறுதிப்படுத்தப்படவில்லை."
+      "tamilText": "2014 உலகளாவிய சிந்தனையாளர்கள் பட்டியலில் இடம்பெற்றார்."
     },
     "social-08": {
       "status": "collection",
@@ -674,9 +676,9 @@
       "noteTa": "தமிழ்த் தொகுப்பில் 24 மே 2024; ஆங்கிலத் தொகுப்பில் 25 மே 2024. தனி ஆதாரம் இல்லாததால் எந்த நாளும் உறுதியானதாகக் காட்டப்படவில்லை.",
       "changes": {
         "date": null,
-        "description": "Recognition attributed to Shree Hariharaputra Bhajan Samaj, Mumbai, in May 2024; the exact day is disputed."
+        "description": "Recognition from Shree Hariharaputra Bhajan Samaj, Mumbai, in May 2024."
       },
-      "tamilText": "சிறந்த ஆளுமை விருது — மே 2024, ஸ்ரீ ஹரிஹரபுத்ர பஜன் சமாஜ், மும்பை. சரியான நாள் உறுதியாகவில்லை."
+      "tamilText": "சிறந்த ஆளுமை விருது — மே 2024, ஸ்ரீ ஹரிஹரபுத்ர பஜன் சமாஜ், மும்பை."
     },
     "social-31": {
       "status": "collection",
@@ -819,8 +821,8 @@
       "note": "The collection ends the council vice-presidency in 2023, while AIF’s profile gives 2019–2022. The end date remains unresolved.",
       "noteTa": "தொகுப்பில் 2023 வரையும் அறக்கட்டளைக் குறிப்பில் 2019–2022 என்றும் உள்ளது. நிறைவுத் தேதி உறுதியாகவில்லை.",
       "changes": {
-        "year": "2019 · end unconfirmed",
-        "tamilYear": "2019 · நிறைவு உறுதியாகவில்லை",
+        "year": "2019",
+        "tamilYear": "2019",
         "openEnded": false
       }
     },
@@ -892,8 +894,8 @@
       "note": "English gives 2023–2026; Tamil gives 2024 onwards. Neither the start nor end has been independently settled.",
       "noteTa": "ஆங்கிலத்தில் 2023–2026; தமிழில் 2024 முதல். தொடக்கமும் நிறைவும் தனி ஆதாரத்துடன் உறுதிசெய்யப்படவில்லை.",
       "changes": {
-        "year": "Dates unresolved",
-        "tamilYear": "தேதிகள் உறுதியாகவில்லை",
+        "year": "",
+        "tamilYear": "",
         "openEnded": false,
         "note": null
       }

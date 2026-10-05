@@ -37,7 +37,7 @@ Open <http://127.0.0.1:4173>. The build regenerates the root HTML files and crea
 | [honours.html](honours.html)     | Padma Shri feature and 79 searchable honours                           |
 | [gallery.html](gallery.html)     | English recordings and credited image collections                      |
 | [tamil.html](tamil.html)         | Tamil biography, calendar, honours, interviews, and historical records |
-| [sources.html](sources.html)     | Editorial notes, independent references, and image credits             |
+| [sources.html](sources.html)     | References, collection background, and image credits                   |
 
 Core biography content is readable without JavaScript. Enhancements add filtering, image viewing, navigation, and videos loaded on request. Both calendars request public events directly from Google on each visit; changing an event does not require republishing the website. Titles and descriptions use the language entered in Google Calendar.
 

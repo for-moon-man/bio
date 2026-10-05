@@ -204,7 +204,7 @@ test('new recordings retain primary metadata, timestamps and documented scope', 
 
 test('generated pages contain complete readable archives and valid local links without JavaScript', () => {
   assert.equal((read('honours.html').match(/class="award-row"/g) || []).length, 79);
-  assert.equal((read('gallery.html').match(/data-collection=/g) || []).length, 14);
+  assert.equal((read('gallery.html').match(/data-collection=/g) || []).length, 9);
   for (const page of ['biography', 'tamil']) {
     const html = read(`${page}.html`);
     assert.equal((html.match(/class="timeline-row"/g) || []).length, 37);
@@ -280,16 +280,16 @@ test('language editions have separate presentation, navigation and readable chro
 
 test('new archival images have reuse credits in both editions and unlinked source labels are removed', () => {
   const photos = JSON.parse(read('data/archive-photos.json'));
-  assert.equal(photos.length, 7);
+  assert.equal(photos.length, 8);
   for (const photo of photos) {
     assert.ok(existsSync(resolve(root, photo.src)));
     assert.ok(photo.caption && photo.captionTa && photo.credit && photo.creditTa);
     if (photo.provenance === 'user-supplied') {
-      assert.equal(photo.id, 'early-portrait');
+      assert.ok(['early-portrait', 'vintage-memories'].includes(photo.id));
       assert.ok(existsSync(resolve(root, photo.originalUrl)));
       assert.equal(photo.source, photo.src);
-      assert.equal(photo.license, 'Reuse terms not recorded');
-      assert.ok(photo.licenseTa);
+      assert.equal(photo.license, null);
+      assert.equal(photo.licenseTa, null);
       assert.equal(photo.licenseUrl, '');
     } else {
       assert.ok(['Public domain', 'GODL-India'].includes(photo.license));

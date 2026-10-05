@@ -829,3 +829,21 @@ html[lang='ta'] .site-legal {
 .site-legal a:hover {
   opacity: 0.8;
 }
+
+/* Keep the supplied panoramic collage intact at every viewport width. */
+.archive-photo-grid > div:has(.vintage-photo) {
+  grid-column: 1 / -1;
+  grid-row: auto;
+}
+.archive-photo-grid .archive-photo.vintage-photo > a,
+html[lang='ta'] .archive-photo-grid .archive-photo.vintage-photo > a {
+  aspect-ratio: 2.5;
+}
+.archive-photo-grid .archive-photo.vintage-photo img,
+html[lang='ta'] .archive-photo-grid .archive-photo.vintage-photo img {
+  height: auto;
+  object-fit: contain;
+}
+.vintage-photo > a:hover img {
+  transform: none;
+}

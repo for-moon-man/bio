@@ -35,7 +35,9 @@
         }
       ],
       "note": "Publication year is not established by the checked catalogue. Wikipedia associates this book with the 2013 C. Pa. Adithanar Literary Award; independent confirmation of that book-to-award link remains pending.",
-      "noteTa": "பார்க்கப்பட்ட நூற்பட்டியலில் வெளியீட்டு ஆண்டு உறுதியாகவில்லை. 2013 சி. பா. ஆதித்தனார் இலக்கிய விருதுடன் இந்நூலை விக்கிப்பீடியா தொடர்புபடுத்துகிறது; அந்தத் தொடர்புக்கான தனி ஆதாரம் இன்னும் உறுதியாகவில்லை."
+      "noteTa": "பார்க்கப்பட்ட நூற்பட்டியலில் வெளியீட்டு ஆண்டு உறுதியாகவில்லை. 2013 சி. பா. ஆதித்தனார் இலக்கிய விருதுடன் இந்நூலை விக்கிப்பீடியா தொடர்புபடுத்துகிறது; அந்தத் தொடர்புக்கான தனி ஆதாரம் இன்னும் உறுதியாகவில்லை.",
+      "publicNote": "",
+      "publicNoteTa": ""
     },
     {
       "id": "siragai-virikkum-mangalyaan",
@@ -70,7 +72,9 @@
         }
       ],
       "note": "Amazon lists a 2015 edition and this ISBN; Noolulagam lists 2019. These are catalogue years, not proof of first publication or a launch day. Wikipedia mentions a Kannada translation; translator and edition details are unconfirmed.",
-      "noteTa": "அமேசான் 2015 என்ற ஆண்டையும் இந்த ISBN எண்ணையும் தருகிறது; நூலுலகம் 2019 எனக் குறிப்பிடுகிறது. இவை பட்டியலிடப்பட்ட பதிப்புகளின் ஆண்டுகள்; முதல் வெளியீட்டு நாளுக்கான ஆதாரமல்ல. கன்னட மொழிபெயர்ப்பு இருப்பதாக விக்கிப்பீடியா குறிப்பிடுகிறது; மொழிபெயர்ப்பாளர், பதிப்பு விவரங்கள் உறுதியாகவில்லை."
+      "noteTa": "அமேசான் 2015 என்ற ஆண்டையும் இந்த ISBN எண்ணையும் தருகிறது; நூலுலகம் 2019 எனக் குறிப்பிடுகிறது. இவை பட்டியலிடப்பட்ட பதிப்புகளின் ஆண்டுகள்; முதல் வெளியீட்டு நாளுக்கான ஆதாரமல்ல. கன்னட மொழிபெயர்ப்பு இருப்பதாக விக்கிப்பீடியா குறிப்பிடுகிறது; மொழிபெயர்ப்பாளர், பதிப்பு விவரங்கள் உறுதியாகவில்லை.",
+      "publicNote": "Amazon lists a 2015 edition and this ISBN; Noolulagam lists a 2019 edition.",
+      "publicNoteTa": "அமேசான் 2015 பதிப்பையும் இந்த ISBN எண்ணையும் பட்டியலிடுகிறது; நூலுலகம் 2019 பதிப்பைக் குறிப்பிடுகிறது."
     },
     {
       "id": "valarum-ariviyal-kalanjiyam",
@@ -105,7 +109,9 @@
         }
       ],
       "note": "Noolulagam lists 2012 and this ISBN. Its page count differs from the publisher’s, so no page total is asserted. Wikipedia lists “Valarum Ariviyal” and “Ariviyal Kalanjiyam” separately; the checked publisher identifies this combined title. Separate editions have not been established.",
-      "noteTa": "நூலுலகம் 2012 என்ற ஆண்டையும் இந்த ISBN எண்ணையும் தருகிறது. பக்க எண்ணிக்கை பதிப்பாளர் பதிவுடன் மாறுபடுவதால் இங்கு காட்டப்படவில்லை. விக்கிப்பீடியா இரு தலைப்புகளாகப் பிரித்துள்ளது; பதிப்பாளர் இவற்றை இணைந்த ஒரே நூலாகப் பட்டியலிடுகிறார். தனித்தனி பதிப்புகள் உறுதியாகவில்லை."
+      "noteTa": "நூலுலகம் 2012 என்ற ஆண்டையும் இந்த ISBN எண்ணையும் தருகிறது. பக்க எண்ணிக்கை பதிப்பாளர் பதிவுடன் மாறுபடுவதால் இங்கு காட்டப்படவில்லை. விக்கிப்பீடியா இரு தலைப்புகளாகப் பிரித்துள்ளது; பதிப்பாளர் இவற்றை இணைந்த ஒரே நூலாகப் பட்டியலிடுகிறார். தனித்தனி பதிப்புகள் உறுதியாகவில்லை.",
+      "publicNote": "Noolulagam lists the 2012 edition and this ISBN. The publisher identifies the combined title Valarum Ariviyal Kalanjiyam.",
+      "publicNoteTa": "நூலுலகம் 2012 பதிப்பையும் இந்த ISBN எண்ணையும் தருகிறது. பதிப்பாளர் வளரும் அறிவியல் களஞ்சியம் என்ற இணைந்த தலைப்பைப் பட்டியலிடுகிறார்."
     },
     {
       "id": "vinnum-mannum",
@@ -135,7 +141,9 @@
         }
       ],
       "note": "2020 follows the listed edition; the catalogue’s 1 January date is not treated as a verified launch day. Wikipedia associates the book with the 2021 Manavai Mustafa science award; independent award documentation is pending.",
-      "noteTa": "2020 என்பது பட்டியலிடப்பட்ட பதிப்பின் ஆண்டு; ஜனவரி 1 என்பதை உறுதியான வெளியீட்டு நாளாகக் கருதவில்லை. 2021 மணவை முஸ்தபா அறிவியல் விருதுடன் விக்கிப்பீடியா இந்நூலைத் தொடர்புபடுத்துகிறது; தனி விருது ஆதாரம் இன்னும் உறுதியாகவில்லை."
+      "noteTa": "2020 என்பது பட்டியலிடப்பட்ட பதிப்பின் ஆண்டு; ஜனவரி 1 என்பதை உறுதியான வெளியீட்டு நாளாகக் கருதவில்லை. 2021 மணவை முஸ்தபா அறிவியல் விருதுடன் விக்கிப்பீடியா இந்நூலைத் தொடர்புபடுத்துகிறது; தனி விருது ஆதாரம் இன்னும் உறுதியாகவில்லை.",
+      "publicNote": "The catalogue lists a 2020 edition.",
+      "publicNoteTa": "நூற்பட்டியல் 2020 பதிப்பைக் குறிப்பிடுகிறது."
     },
     {
       "id": "periyarum-ariviyalum",
@@ -165,7 +173,9 @@
         }
       ],
       "note": "The bookseller explicitly identifies the 2023 first edition; no exact publication day or ISBN is supplied.",
-      "noteTa": "புத்தக விற்பனையாளர் 2023 முதல் பதிப்பு என்று தெளிவாகக் குறிப்பிடுகிறார்; வெளியீட்டு நாளோ ISBN எண்ணோ தரப்படவில்லை."
+      "noteTa": "புத்தக விற்பனையாளர் 2023 முதல் பதிப்பு என்று தெளிவாகக் குறிப்பிடுகிறார்; வெளியீட்டு நாளோ ISBN எண்ணோ தரப்படவில்லை.",
+      "publicNote": "The bookseller identifies the first edition as 2023.",
+      "publicNoteTa": "புத்தக விற்பனையாளர் 2023 முதல் பதிப்பு என்று குறிப்பிடுகிறார்."
     }
   ],
   "pending": [
@@ -174,14 +184,18 @@
       "title": "India–75",
       "titleTa": "இந்தியா–75",
       "note": "Listed in both Wikipedia editions; the Tamil article expands the title as “Pormunai Muthal Aermunai Varai”. Publisher, edition date, authorship details and an authentic cover remain unconfirmed.",
-      "noteTa": "இரு மொழி விக்கிப்பீடியா பதிவுகளிலும் உள்ளது; தமிழ்ப் பதிவு “போர்முனை முதல் ஏர்முனை வரை” என விரிவாக்குகிறது. பதிப்பகம், பதிப்பு ஆண்டு, ஆசிரியர் விவரங்கள், உண்மையான அட்டைப்படம் உறுதியாகவில்லை."
+      "noteTa": "இரு மொழி விக்கிப்பீடியா பதிவுகளிலும் உள்ளது; தமிழ்ப் பதிவு “போர்முனை முதல் ஏர்முனை வரை” என விரிவாக்குகிறது. பதிப்பகம், பதிப்பு ஆண்டு, ஆசிரியர் விவரங்கள், உண்மையான அட்டைப்படம் உறுதியாகவில்லை.",
+      "publicNote": "Listed in both Wikipedia editions; the Tamil article expands the title as “Pormunai Muthal Aermunai Varai”.",
+      "publicNoteTa": "இரு மொழி விக்கிப்பீடியா பதிவுகளிலும் உள்ளது; தமிழ்ப் பதிவு “போர்முனை முதல் ஏர்முனை வரை” என விரிவாக்குகிறது."
     },
     {
       "id": "ariviyalum-maanudamum",
       "title": "Ariviyalum Maanudamum",
       "titleTa": "அறிவியலும் மானுடமும்",
       "note": "Listed in English Wikipedia. A matching publisher or library record and an authentic cover have not yet been established.",
-      "noteTa": "ஆங்கில விக்கிப்பீடியாவில் பட்டியலிடப்பட்டுள்ளது. பொருந்தும் பதிப்பாளர் அல்லது நூலகப் பதிவும் உண்மையான அட்டைப்படமும் இன்னும் உறுதிப்படுத்தப்படவில்லை."
+      "noteTa": "ஆங்கில விக்கிப்பீடியாவில் பட்டியலிடப்பட்டுள்ளது. பொருந்தும் பதிப்பாளர் அல்லது நூலகப் பதிவும் உண்மையான அட்டைப்படமும் இன்னும் உறுதிப்படுத்தப்படவில்லை.",
+      "publicNote": "Listed in English Wikipedia.",
+      "publicNoteTa": "ஆங்கில விக்கிப்பீடியாவில் பட்டியலிடப்பட்டுள்ளது."
     }
   ]
 }

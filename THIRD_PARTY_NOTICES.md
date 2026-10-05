@@ -23,7 +23,7 @@ The English stylesheet requests DM Sans, Space Grotesk, and Noto Sans Tamil from
 | `assets/earth.webp` and `assets/earth.jpg`       | NASA / Apollo 17 crew, [source](https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg) | Public domain, as recorded at the source.                                                                                                                                                                                                              |
 | `assets/archive/*.webp`                          | Individual photographers, government agencies, and scientific institutions                                 | Per-image attribution, source, modifications, and license are recorded in `data/archive-photos.json` and displayed on [Sources & image credits](sources.html#image-credits). Terms include public domain and the Government Open Data License – India. |
 
-The replacement `assets/archive/early-portrait.webp` was converted from the PNG supplied for this website on 5 October 2026. Its photographer, photograph date, and public reuse terms were not supplied; the previous image's Wikimedia Commons attribution and public-domain record do not apply to this replacement.
+The portrait `assets/archive/early-portrait.webp` and collage `assets/archive/vintage-memories-annadurai.webp` were supplied for this website. The portrait was converted from PNG; the collage was resized from 6000 × 2400 to 2400 × 960 and converted from JPEG to WebP with its full composition preserved. These supplied images are separate from the Wikimedia Commons photographs and their licences.
 
 The source records preserve the scope of each license. The proprietary notice does not claim ownership of these third-party images. Preserve their credits and applicable reuse terms when redistributing them under their respective licenses.
 
@@ -39,19 +39,19 @@ Official source cards contain original summaries and links, not copies of third-
 
 At the site owner's request, five small cover images identify and accompany discussion of Dr. Annadurai's books. They are served locally as WebP thumbnails, no larger than 240 × 360 pixels, with the complete cover composition preserved. They are not original site artwork or openly licensed images; copyright remains with the respective publishers and creators. Their appearance does not imply publisher endorsement or grant permission for other uses.
 
-| Book                        | Source listing                                                         | Publisher / credit                                                                   |
-| --------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Kaiyaruke Nila              | [Goodreads](https://www.goodreads.com/book/show/18781356)              | Cover via Goodreads; individual artist and publisher not established by this listing |
-| Siragai Virikkum Mangalyaan | [Amazon](https://www.amazon.in/dp/8193129504)                          | Thanthi Publications                                                                 |
-| Valarum Ariviyal Kalanjiyam | [Noolulagam](https://www.noolulagam.com/books/12932)                   | Sixth Sense Publications                                                             |
-| Vinnum Mannum               | [Amazon](https://www.amazon.in/dp/938317854X)                          | Murankalari Padaippagam                                                              |
-| Periyarum Ariviyalum        | [PeriyarBooks](https://periyarbooks.com/products/periyarum-ariviyalum) | Periyar Sinthanai Uyarayvu Maiyam                                                    |
+| Book                        | Source listing                                                         | Publisher / credit                |
+| --------------------------- | ---------------------------------------------------------------------- | --------------------------------- |
+| Kaiyaruke Nila              | [Goodreads](https://www.goodreads.com/book/show/18781356)              | Cover via Goodreads               |
+| Siragai Virikkum Mangalyaan | [Amazon](https://www.amazon.in/dp/8193129504)                          | Thanthi Publications              |
+| Valarum Ariviyal Kalanjiyam | [Noolulagam](https://www.noolulagam.com/books/12932)                   | Sixth Sense Publications          |
+| Vinnum Mannum               | [Amazon](https://www.amazon.in/dp/938317854X)                          | Murankalari Padaippagam           |
+| Periyarum Ariviyalum        | [PeriyarBooks](https://periyarbooks.com/products/periyarum-ariviyalum) | Periyar Sinthanai Uyarayvu Maiyam |
 
 Bibliographic and cover-source metadata is maintained in `data/books.json`. Source links accompany the images and edition details in both languages. Full book pages, article screenshots and LinkedIn evidence photographs are not reproduced.
 
 ### Wikipedia
 
-The [English biography, revision 1376809719](https://en.wikipedia.org/w/index.php?title=Mylswamy_Annadurai&oldid=1376809719) and [Tamil biography](https://ta.wikipedia.org/w/index.php?title=%E0%AE%AE%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D%E0%AE%9A%E0%AE%BE%E0%AE%AE%E0%AE%BF_%E0%AE%85%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%BE%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88&oldid=4451912) informed the bibliography and additional career notes. Wikipedia contributors' text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The site uses newly written factual summaries and identifies unconfirmed details. Wikipedia's text licence does not license third-party book covers.
+The [English biography, revision 1376809719](https://en.wikipedia.org/w/index.php?title=Mylswamy_Annadurai&oldid=1376809719) and [Tamil biography](https://ta.wikipedia.org/w/index.php?title=%E0%AE%AE%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D%E0%AE%9A%E0%AE%BE%E0%AE%AE%E0%AE%BF_%E0%AE%85%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%BE%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88&oldid=4451912) informed the bibliography and additional career notes. Wikipedia contributors' text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The site uses newly written factual summaries and links to the cited records. Wikipedia's text licence does not license third-party book covers.
 
 No public reuse license for the supplied English and Tamil collection in `content/`, derived biographical text and records in `data/`, quotations, or live calendar entries is established here. Original content owned by Dr. Mylswamy Annadurai is proprietary; third-party content remains with its respective rights holders, subject to applicable law. The historical ZIP is a local development record and is excluded from version control and deployment.
 
