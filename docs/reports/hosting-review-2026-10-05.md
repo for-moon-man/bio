@@ -14,4 +14,6 @@ Reviewed all seven generated pages in English and Tamil. Public pages now omit m
 - Full-page desktop and mobile screenshots were captured in the ignored `test-results/` directory. Visual review included all seven page openings and the uncropped collage in each placement.
 - Regression checks cover missing-data notices, optional photograph dates and the LinkedIn fallback for honours references.
 
-Browser checks block external services for repeatability; they verify calendar and video configuration, not external availability or playback. Publish only `dist/` using the existing deployment workflow or another static host. A push to `main` runs validation; GitHub Pages deployment remains a separate manual workflow.
+Browser checks block external services for repeatability; they verify calendar and video configuration, not external availability or playback. The production package is `dist/`, ready for the supplied manual Actions deployment workflow or another static host.
+
+Live repository settings also show existing legacy GitHub Pages publishing from `main` at `/`, which automatically deployed the content push. Both GitHub validation jobs (Node 22 and 24) and that deployment succeeded. Direct requests to the public site were blocked by the local proxy with HTTP 407, so public-site delivery could not be independently checked from this environment. To publish only `dist/` with the supplied workflow, the repository's Pages source must be switched to GitHub Actions as described in the deployment guide.

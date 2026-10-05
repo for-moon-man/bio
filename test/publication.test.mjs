@@ -26,6 +26,7 @@ test('honours without external research references link to the supplied LinkedIn
       assert.doesNotMatch(links, /href="(?:#|sources\.html)/);
       if (!item.review.sources.length) assert.ok(links.includes(honoursProfile), item.id);
       else assert.ok(links.includes('href="https://'), item.id);
+      if (item.date) assert.ok(links.includes(`datetime="${item.date}"`), item.id);
     }
   }
 });
