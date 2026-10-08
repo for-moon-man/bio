@@ -212,6 +212,11 @@ test('generated pages contain complete readable archives and valid local links w
   }
   for (const page of pages) {
     const html = read(`${page}.html`);
+    assert.match(
+      html,
+      /href="mailto:drmylswamyannadurai@gmail\.com"[^>]*>[\s\S]*?<span>drmylswamyannadurai@gmail\.com<\/span>/,
+      `${page}: contact email`,
+    );
     const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map((match) => match[1]);
     assert.equal(ids.length, new Set(ids).size, `Duplicate IDs in ${page}`);
     assert.equal((html.match(/<h1[ >]/g) || []).length, 1, page);
@@ -220,8 +225,8 @@ test('generated pages contain complete readable archives and valid local links w
       JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1]),
     );
     for (const [, url] of html.matchAll(/\b(?:href|src)="([^"]+)"/g)) {
-      if (/^https?:/.test(url)) {
-        assert.doesNotThrow(() => new URL(url));
+      if (/^(?:https?|mailto):/.test(url)) {
+        assert.doesNotThrow(() => new URL(url), `${page}: invalid URL ${url}`);
         continue;
       }
       const [path, fragment] = url.split('#');
